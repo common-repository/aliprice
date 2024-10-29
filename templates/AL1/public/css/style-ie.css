@@ -1,0 +1,190 @@
+[class^="b-social-icon-"],
+[class*=" b-social-icon-"] {
+  font-family: 'fontawesome';
+  font-style: normal;
+  font-weight: normal;
+  /* fix buttons height */
+  line-height: 1em;
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+}
+
+.b-social-icon-twitter {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe800;&nbsp;');
+}
+
+.b-social-icon-facebook {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe801;&nbsp;');
+}
+
+.b-social-icon-gplus {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe802;&nbsp;');
+}
+
+.b-social-icon-sort {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe803;&nbsp;');
+}
+
+.b-social-icon-gplus-squared {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe804;&nbsp;');
+}
+
+.b-social-icon-facebook-squared {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe805;&nbsp;');
+}
+
+.b-social-icon-pinterest-squared {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe806;&nbsp;');
+}
+
+.b-social-icon-twitter-squared {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe807;&nbsp;');
+}
+
+.b-social-icon-shield {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe808;&nbsp;');
+}
+
+.b-social-icon-check {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe809;&nbsp;');
+}
+
+.b-social-icon-search {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80a;&nbsp;');
+}
+
+.b-social-icon-award {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80b;&nbsp;');
+}
+
+.b-social-icon-phone {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80c;&nbsp;');
+}
+
+.b-social-icon-spin3 {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80d;&nbsp;');
+}
+
+.b-social-icon-angle-circled-left {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80e;&nbsp;');
+}
+
+.b-social-icon-angle-circled-right {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe80f;&nbsp;');
+}
+
+.b-social-icon-cancel-circled {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe810;&nbsp;');
+}
+
+.b-social-icon-glyph {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe811;&nbsp;');
+}
+
+.b-social-icon-glyph-1 {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe812;&nbsp;');
+}
+
+.b-social-icon-glyph-2 {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe813;&nbsp;');
+}
+
+.b-social-icon-glyph-3 {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe814;&nbsp;');
+}
+
+.b-social-icon-glyph-4 {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe815;&nbsp;');
+}
+
+.b-social-icon-glyph-5 {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe816;&nbsp;');
+}
+
+.b-social-icon-cc-mastercard {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe817;&nbsp;');
+}
+
+.b-social-icon-cc-visa {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe818;&nbsp;');
+}
+
+.b-social-icon-star-empty {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe819;&nbsp;');
+}
+
+.b-social-icon-star {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe81a;&nbsp;');
+}
+
+.b-social-icon-tag {
+  *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe81b;&nbsp;');
+}
+
+.ui-helper-clearfix,
+.ui-accordion .ui-accordion-header,
+.ui-accordion .ui-accordion-content,
+.ui-button,
+.ui-dialog .ui-dialog-content,
+.ui-menu .ui-menu-item,
+.ui-menu .ui-menu-item a,
+.ui-tabs {
+  zoom: 1;
+}
+
+.ui-helper-zfix {
+  filter: Alpha(Opacity=0);
+}
+
+.ui-datepicker-cover {
+  -webkit-filter: mask();
+  filter: mask();
+}
+
+.ui-priority-secondary,
+.ui-widget-content .ui-priority-secondary,
+.ui-widget-header .ui-priority-secondary {
+  filter: Alpha(Opacity=70);
+}
+
+.ui-state-disabled,
+.ui-widget-content .ui-state-disabled,
+.ui-widget-header .ui-state-disabled,
+.ui-state-disabled .ui-icon {
+  filter: Alpha(Opacity=35);
+}
+
+/* Overlays */
+
+.ui-widget-overlay,
+.ui-widget-shadow {
+  filter: Alpha(Opacity=30);
+}
+
+.btn.disabled,
+.btn[disabled],
+fieldset[disabled] .btn {
+  filter: alpha(opacity=65);
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+  margin-top: 1px \9;
+}
+
+.radio input[type="radio"],
+.radio-inline input[type="radio"],
+.checkbox input[type="checkbox"],
+.checkbox-inline input[type="checkbox"] {
+  margin-top: 4px \9;
+}
+
+.dropdown-menu > .disabled > a:hover,
+.dropdown-menu > .disabled > a:focus {
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+}
+
+.media,
+.media-body {
+  zoom: 1;
+}

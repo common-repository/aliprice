@@ -1,0 +1,28 @@
+.btn, .btn:hover, .btn:focus, .btn:active{padding-right:24px;padding-left:24px;margin-right:3px;margin-left:3px;}
+#admin-sidebar-wrap{float:right;}
+#admin-sidebar-wrap ul > li > a{border-right:3px solid #fff;}
+#admin-sidebar-wrap ul > li > a.item-active{border-right:3px solid #f58220;}
+#admin-sidebar-wrap ul > li > ul{margin-right:10px;}
+body .page-content{margin-right:180px;}
+body .content-inner h2{padding-right:20px;}
+body .content-inner-type .row{margin-right:0;margin-left:0;}
+body .content-inner-type [class*=\"col-\"]{padding-right:0;padding-left:0;}
+body #ae_modal_1 .media-frame-title, body #ae_modal_1 .media-frame-content{right:0;}
+body #ae_modal_1 .media-frame-content .inner-content{margin-left:17.5px;}
+#ae_modal_1 .modal-content-single .row{margin-left:17.5px;}
+#ae_modal_1 .type-view .thumb.pull-left{margin-left:15px;}
+#ae_modal_1 .type-view .thumb.pull-right{margin-right:15px;}
+#ae_modal_1 .type-view span.inline{padding-left:5px;}
+.import-step-one .load{right:0;left:0;}
+.import-step-one .load span{right:50%;margin-right:-18px;}
+#request-content .close, #request-content-id .close{left:0;}
+#import-bulk .progress{margin-right:20px;margin-left:20px;}
+.beforeTable .totalItems{float:left;}
+.beforeTable #pagination-info{text-align:left;}
+table.advanced-result span.this-edit{padding-right:4px;}
+#Modal label{float:right;}
+#Modal .tab-pane .item span{margin-right:165px;}
+.dash-header .type-lic{left:15px;}
+#filters a span{left:0;}
+input[type=checkbox], input[type=radio]{margin-left:4px;}
+.inline_form{float:left;}

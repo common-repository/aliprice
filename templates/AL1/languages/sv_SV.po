@@ -1,0 +1,1401 @@
+# Translation of Theme AL1, AL2, AL3 in Swedish
+# This file is distributed under the same license as the Theme AL1, AL2, AL3 package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-03-25 17:26:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1000\n"
+"Project-Id-Version: Theme AL1, AL2, AL3\n"
+
+#: AL3/libs/customization/class.CZ.Settings.php:437
+msgid "Categories tab 5"
+msgstr ""
+
+#: AL1/libs/customization/class.CZ.AdminTpl.php:423
+#: AL2/libs/customization/class.CZ.AdminTpl.php:423
+#: AL3/libs/customization/class.CZ.AdminTpl.php:423
+msgid "size:"
+msgstr ""
+
+#: AL1/libs/customization/class.CZ.AdminTpl.php:429
+#: AL2/libs/customization/class.CZ.AdminTpl.php:429
+#: AL3/libs/customization/class.CZ.AdminTpl.php:429
+msgid "Upload"
+msgstr ""
+
+#: AL1/libs/customization/class.CZ.AdminTpl.php:814
+#: AL2/libs/customization/class.CZ.AdminTpl.php:814
+#: AL3/libs/customization/class.CZ.AdminTpl.php:814
+msgid "Save Settings"
+msgstr ""
+
+#: AL1/libs/customization/class.CZ.AdminTpl.php:815
+#: AL2/libs/customization/class.CZ.AdminTpl.php:815
+#: AL3/libs/customization/class.CZ.AdminTpl.php:815
+msgid "Default"
+msgstr ""
+
+#: AL1/libs/customization/class.CZ.AdminTpl.php:871
+#: AL2/libs/customization/class.CZ.AdminTpl.php:871
+#: AL3/libs/customization/class.CZ.AdminTpl.php:871
+msgid "The сhanges have been saved"
+msgstr ""
+
+#: AL1/libs/customization/class.CZ.AdminTpl.php:873
+#: AL2/libs/customization/class.CZ.AdminTpl.php:873
+#: AL3/libs/customization/class.CZ.AdminTpl.php:873
+msgid "No changes have been made"
+msgstr ""
+
+#: AL1/libs/customization/class.CZ.Settings.php:26
+#: AL2/libs/customization/class.CZ.Settings.php:26
+#: AL3/libs/customization/class.CZ.Settings.php:26
+msgid "General"
+msgstr ""
+
+#: AL1/libs/customization/class.CZ.Settings.php:27
+#: AL2/libs/customization/class.CZ.Settings.php:27
+#: AL3/libs/customization/class.CZ.Settings.php:27
+msgid "Some basic configuration settings."
+msgstr ""
+
+#: AL1/libs/customization/class.CZ.Settings.php:34
+#: AL2/libs/customization/class.CZ.Settings.php:34
+#: AL3/libs/customization/class.CZ.Settings.php:34
+msgid "Texts"
+msgstr ""
+
+#: AL1/libs/customization/class.CZ.Settings.php:35
+#: AL2/libs/customization/class.CZ.Settings.php:35
+#: AL3/libs/customization/class.CZ.Settings.php:35
+msgid "Use this section to add and edit texts."
+msgstr ""
+
+#: AL1/libs/customization/class.CZ.Settings.php:41
+#: AL2/libs/customization/class.CZ.Settings.php:41
+#: AL3/libs/customization/class.CZ.Settings.php:41
+msgid "Colors"
+msgstr ""
+
+#: AL1/libs/customization/class.CZ.Settings.php:42
+#: AL2/libs/customization/class.CZ.Settings.php:42
+#: AL3/libs/customization/class.CZ.Settings.php:42
+msgid "Use this section to edit colors."
+msgstr ""
+
+#: AL1/libs/customization/class.CZ.Settings.php:48
+#: AL2/libs/customization/class.CZ.Settings.php:48
+#: AL3/libs/customization/class.CZ.Settings.php:48
+msgid "Social Media"
+msgstr ""
+
+#: AL1/libs/customization/class.CZ.Settings.php:49
+#: AL2/libs/customization/class.CZ.Settings.php:49
+#: AL3/libs/customization/class.CZ.Settings.php:49
+msgid "Social media pages integration."
+msgstr ""
+
+#: AL1/libs/customization/class.CZ.Settings.php:55
+#: AL2/libs/customization/class.CZ.Settings.php:55
+#: AL3/libs/customization/class.CZ.Settings.php:55
+msgid "Subcribe Form"
+msgstr ""
+
+#: AL1/libs/customization/class.CZ.Settings.php:56
+#: AL2/libs/customization/class.CZ.Settings.php:56
+#: AL3/libs/customization/class.CZ.Settings.php:56
+msgid "Subscription form settings for collecting users’ emails."
+msgstr ""
+
+#: AL1/libs/customization/class.CZ.Settings.php:63
+#: AL2/libs/customization/class.CZ.Settings.php:63
+#: AL3/libs/customization/class.CZ.Settings.php:63
+msgid "SEO meta data settings."
+msgstr ""
+
+#: AL1/libs/customization/class.CZ.Settings.php:70
+#: AL2/libs/customization/class.CZ.Settings.php:70
+#: AL3/libs/customization/class.CZ.Settings.php:70
+msgid "Navigation settings block."
+msgstr ""
+
+#: AL1/libs/customization/class.CZ.Settings.php:89
+#: AL1/libs/customization/class.CZ.Settings.php:96
+#: AL2/libs/customization/class.CZ.Settings.php:89
+#: AL2/libs/customization/class.CZ.Settings.php:96
+#: AL3/libs/customization/class.CZ.Settings.php:89
+#: AL3/libs/customization/class.CZ.Settings.php:96
+msgid "Font URL (Global)"
+msgstr ""
+
+#: AL1/libs/customization/class.CZ.Settings.php:92
+#: AL1/libs/customization/class.CZ.Settings.php:99
+#: AL2/libs/customization/class.CZ.Settings.php:92
+#: AL2/libs/customization/class.CZ.Settings.php:99
+#: AL3/libs/customization/class.CZ.Settings.php:92
+#: AL3/libs/customization/class.CZ.Settings.php:99
+msgid "Font name: (Global)"
+msgstr ""
+
+#: AL1/libs/customization/class.CZ.Settings.php:107
+#: AL2/libs/customization/class.CZ.Settings.php:107
+#: AL3/libs/customization/class.CZ.Settings.php:107
+msgid "Analytics Tracking code"
+msgstr ""
+
+#: AL1/libs/customization/class.CZ.Settings.php:142
+#: AL2/libs/customization/class.CZ.Settings.php:142
+#: AL3/libs/customization/class.CZ.Settings.php:142
+msgid "Slider image 1"
+msgstr ""
+
+#: AL1/libs/customization/class.CZ.Settings.php:264
+#: AL2/libs/customization/class.CZ.Settings.php:258
+#: AL3/libs/customization/class.CZ.Settings.php:266
+msgid "Header(slider) text button 2 Hover"
+msgstr ""
+
+#: AL1/libs/customization/class.CZ.Settings.php:274
+#: AL2/libs/customization/class.CZ.Settings.php:268
+#: AL3/libs/customization/class.CZ.Settings.php:276
+msgid "Header(slider) text button 3 Hover"
+msgstr ""
+
+#: AL1/libs/customization/class.CZ.Settings.php:309
+#: AL2/libs/customization/class.CZ.Settings.php:303
+#: AL3/libs/customization/class.CZ.Settings.php:311
+msgid "G+ (url)"
+msgstr ""
+
+#: AL1/libs/customization/class.CZ.Settings.php:335
+#: AL2/libs/customization/class.CZ.Settings.php:329
+#: AL3/libs/customization/class.CZ.Settings.php:337
+msgid "Subscribe Form"
+msgstr ""
+
+#: AL1/libs/customization/class.CZ.Settings.php:417
+#: AL2/libs/customization/class.CZ.Settings.php:411
+#: AL3/libs/customization/class.CZ.Settings.php:419
+msgid "Categories tab 1"
+msgstr ""
+
+#: AL1/libs/customization/class.CZ.Settings.php:421
+#: AL2/libs/customization/class.CZ.Settings.php:415
+#: AL3/libs/customization/class.CZ.Settings.php:423
+msgid "Categories tab 2"
+msgstr ""
+
+#: AL1/libs/customization/class.CZ.Settings.php:427
+#: AL3/libs/customization/class.CZ.Settings.php:429
+msgid "Categories tab 3"
+msgstr ""
+
+#: AL1/libs/customization/class.CZ.Settings.php:431
+#: AL3/libs/customization/class.CZ.Settings.php:433
+msgid "Categories tab 4"
+msgstr ""
+
+#: AL1/libs/customization/menu.php:10 AL1/libs/customization/menu.php:11
+#: AL2/libs/customization/menu.php:10 AL2/libs/customization/menu.php:11
+#: AL3/libs/customization/menu.php:10 AL3/libs/customization/menu.php:11
+msgid "Customization"
+msgstr ""
+
+#: AL2/libs/customization/class.CZ.Settings.php:159
+msgid "Banner 1"
+msgstr ""
+
+#: AL2/libs/customization/class.CZ.Settings.php:163
+msgid "Banner 2"
+msgstr ""
+
+#: AL3/templates/about-theme.php:77
+msgid "AliThree Theme is bundled with all necessary features. Some highlights are:"
+msgstr "AliThree tema levereras med alla nödvändiga funktioner. Några höjdpunkter  är:"
+
+#: AL2/single-products.php:126
+msgid "Sale price"
+msgstr "Försäljningspris"
+
+#: AL2/customize/banners.php:12
+msgid "Banners"
+msgstr "Banderoller"
+
+#: AL2/customize/banners.php:24 AL2/customize/banners.php:38
+msgid "Banner"
+msgstr "Banderoll"
+
+#: AL1/libs/customization/class.CZ.Settings.php:281 AL2/customize/colors.php:49
+#: AL2/libs/customization/class.CZ.Settings.php:275
+#: AL3/libs/customization/class.CZ.Settings.php:283
+msgid "Header text button"
+msgstr "Rubriktext knapp"
+
+#: AL1/libs/customization/class.CZ.Settings.php:284 AL2/customize/colors.php:61
+#: AL2/libs/customization/class.CZ.Settings.php:278
+#: AL3/libs/customization/class.CZ.Settings.php:286
+msgid "Header text button(hover)"
+msgstr "Rubriktext knapp(sväva)"
+
+#: AL1/libs/customization/class.CZ.Settings.php:287 AL2/customize/colors.php:74
+#: AL2/libs/customization/class.CZ.Settings.php:281
+#: AL3/libs/customization/class.CZ.Settings.php:289
+msgid "Header line"
+msgstr "Rubrikrad"
+
+#: AL1/libs/customization/class.CZ.Settings.php:366 AL2/customize/text.php:103
+#: AL2/libs/customization/class.CZ.Settings.php:360 AL3/customize/text.php:103
+#: AL3/libs/customization/class.CZ.Settings.php:368
+msgid "Seo text header"
+msgstr "SEO textrubrik"
+
+#: AL1/libs/customization/class.CZ.Settings.php:370 AL2/customize/text.php:116
+#: AL2/libs/customization/class.CZ.Settings.php:364 AL3/customize/text.php:116
+#: AL3/libs/customization/class.CZ.Settings.php:372
+msgid "Seo text description"
+msgstr "SEO textbeskrivning"
+
+#: AL2/customize/text.php:168 AL3/customize/text.php:168
+msgid "\"Order Now\" button text"
+msgstr "\"Beställ nu\" textknappen "
+
+#: AL2/templates/about-theme.php:62
+msgid "AliTwo is a WordPress theme created for building AliExpress affiliate websites based on AliPlugin. The Theme has a clean, completely responsive design and created with most modern technologies. We hope you will enjoy it and have a good time developing your affiliate sites and earning with AliExpress."
+msgstr "AliTwo är ett Wordpress tema skapat för att bygga AliExpress partner webbplatser baserade på AliPlugin. Temat har en ren, helt responsiv design och skapat med de flesta moderna tekniker. Vi hoppas att du kommer att njuta av det och har roligt att utveckla dina partner webbplatser och tjäna med AliExpress."
+
+#: AL2/templates/about-theme.php:77
+msgid "AliTwo Theme is bundled with all necessary features. Some highlights are:"
+msgstr "AliTwo tema levereras med alla nödvändiga funktioner. Några höjdpunkter  är:"
+
+#: AL2/templates/products-special.php:8
+msgid "Special"
+msgstr "Special"
+
+#: AL2/widgets/aliproducts/Ali_Products.php:14
+msgid "Output portable products"
+msgstr "Mata ut bärbara produkter"
+
+#: AL2/widgets/aliproducts/form.php:2 AL2/widgets/g-posts/form.php:2
+msgid "Title"
+msgstr "Titel"
+
+#: AL2/widgets/aliproducts/form.php:9 AL2/widgets/g-posts/form.php:9
+msgid "Auto title: "
+msgstr "Auto titel:"
+
+#: AL2/widgets/aliproducts/form.php:22 AL2/widgets/g-posts/form.php:22
+msgid "Order: "
+msgstr "Order: "
+
+#: AL2/widgets/aliproducts/form.php:32 AL2/widgets/g-posts/form.php:32
+msgid "Count:"
+msgstr "Räkna:"
+
+#: AL2/widgets/aliproducts/form.php:40 AL2/widgets/g-posts/form.php:40
+msgid "Category: "
+msgstr "Kategori:"
+
+#: AL2/widgets/g-posts/G_Posts.php:16
+msgid "Output posts"
+msgstr "Utgångs inlägg"
+
+#: AL3/customize/images.php:20 AL3/libs/customization/class.CZ.Settings.php:159
+msgid "Before Footer"
+msgstr "Innan sidfot"
+
+#: AL3/templates/about-theme.php:62
+msgid "AliThree is a WordPress theme created for building AliExpress affiliate websites based on AliPlugin. The Theme has a clean, completely responsive design and created with most modern technologies. We hope you will enjoy it and have a good time developing your affiliate sites and earning with AliExpress."
+msgstr "AliThree är ett Wordpress tema skapat för att bygga AliExpress partner webbplatser baserade på AliPlugin. Temat har en ren, helt responsiv design och skapat med de flesta moderna tekniker. Vi hoppas att du kommer att njuta av det och har roligt att utveckla dina partner webbplatser och tjäna med AliExpress. "
+
+#: AL1/customize/subscription.php:17
+msgid "Insert the code from AWeber, MailChimp, etc."
+msgstr "För in koden från AWeber, MailChimp, etc."
+
+#: AL1/footer.php:33 AL1/customize/subscription.php:5 AL2/footer.php:22
+#: AL3/footer.php:31
+msgid "Subscription"
+msgstr "Prenumeration"
+
+#: AL1/customize/images.php:74 AL1/libs/customization/class.CZ.Settings.php:147
+#: AL2/customize/images.php:74 AL2/libs/customization/class.CZ.Settings.php:147
+#: AL3/customize/images.php:31 AL3/libs/customization/class.CZ.Settings.php:147
+msgid "Slider image 2"
+msgstr "Bildspel bild 2"
+
+#: AL1/customize/images.php:85 AL1/libs/customization/class.CZ.Settings.php:152
+#: AL2/customize/images.php:85 AL2/libs/customization/class.CZ.Settings.php:152
+#: AL3/customize/images.php:42 AL3/libs/customization/class.CZ.Settings.php:152
+msgid "Slider image 3"
+msgstr "Bildspel bild 3"
+
+#: AL1/single-products.php:68 AL2/single-products.php:71
+#: AL3/single-products.php:68
+msgid "Availability: in stock"
+msgstr "Tillgänglighet: I lager"
+
+#: AL1/single-products.php:69 AL2/single-products.php:72
+#: AL3/single-products.php:69
+msgid "Availability: out of stock"
+msgstr "Tillgänglighet: Tillfälligt slut"
+
+#: AL1/customize/text.php:178 AL1/libs/customization/class.CZ.Settings.php:219
+#: AL2/customize/text.php:192 AL2/libs/customization/class.CZ.Settings.php:232
+#: AL3/customize/text.php:192 AL3/libs/customization/class.CZ.Settings.php:230
+msgid "\"Powered by\" text"
+msgstr "\"Drivs av\" text"
+
+#: AL1/single-products.php:103 AL2/single-products.php:103
+#: AL3/single-products.php:103
+msgid "TODAY'S DEAL"
+msgstr "DAGENS AFFÄR"
+
+#: AL1/single-products.php:106 AL2/single-products.php:106
+#: AL3/single-products.php:106
+msgid "Ends in"
+msgstr "slutar om"
+
+#: AL1/single-products.php:110 AL2/single-products.php:110
+#: AL3/single-products.php:110
+msgid "Days Left"
+msgstr "Dagar Kvar"
+
+#: AL1/single-products.php:127 AL1/single-products.php:466
+#: AL2/single-products.php:139 AL2/single-products.php:433
+#: AL3/single-products.php:127 AL3/single-products.php:466
+msgid "Sale Price"
+msgstr "Försäljningspris"
+
+#: AL1/single-products.php:167 AL1/single-products.php:489
+#: AL2/single-products.php:161 AL2/single-products.php:456
+#: AL3/single-products.php:167 AL3/single-products.php:489
+msgid "or"
+msgstr "eller"
+
+#: AL1/customize/social.php:92 AL1/libs/customization/class.CZ.Settings.php:320
+#: AL2/libs/customization/class.CZ.Settings.php:314
+#: AL3/libs/customization/class.CZ.Settings.php:322
+msgid "VK (url)"
+msgstr "VK (url)"
+
+#: AL1/customize/text.php:64 AL1/libs/customization/class.CZ.Settings.php:187
+#: AL2/customize/text.php:50 AL2/libs/customization/class.CZ.Settings.php:200
+#: AL3/customize/text.php:50 AL3/libs/customization/class.CZ.Settings.php:198
+msgid "Text header 2"
+msgstr "Rubrikstext 2"
+
+#: AL1/customize/text.php:76 AL1/libs/customization/class.CZ.Settings.php:190
+#: AL2/customize/text.php:62 AL2/libs/customization/class.CZ.Settings.php:203
+#: AL3/customize/text.php:62 AL3/libs/customization/class.CZ.Settings.php:201
+msgid "Text header 3"
+msgstr "Rubrikstext 3"
+
+#: AL1/customize/text.php:128 AL1/libs/customization/class.CZ.Settings.php:209
+#: AL2/customize/text.php:142 AL2/libs/customization/class.CZ.Settings.php:222
+#: AL3/customize/text.php:142 AL3/libs/customization/class.CZ.Settings.php:220
+msgid "Catalogue text 2"
+msgstr "Katalogtext 2"
+
+#: AL1/customize/text.php:140 AL1/libs/customization/class.CZ.Settings.php:212
+#: AL2/customize/text.php:154 AL2/libs/customization/class.CZ.Settings.php:225
+#: AL3/customize/text.php:154 AL3/libs/customization/class.CZ.Settings.php:223
+msgid "Catalogue text 3"
+msgstr "Katalogtext 3"
+
+#: AL1/customize/text.php:154 AL1/libs/customization/class.CZ.Settings.php:166
+#: AL2/libs/customization/class.CZ.Settings.php:179
+#: AL3/libs/customization/class.CZ.Settings.php:177
+msgid "\"Order now\" button text"
+msgstr "\"Beställ nu\" textknappen "
+
+#: AL1/single-products.php:503 AL2/single-products.php:468
+#: AL3/single-products.php:501
+msgid "Do you know that you can <span>save up to 90%</span> on your<br> online shopping, buying directly from manufacturers?"
+msgstr "Vet du att du kan <span>spara upp till 90%</span> på <br> online shopping geom att köpa direkt från tillverkaren?"
+
+#: AL1/single-products.php:505 AL2/single-products.php:469
+#: AL3/single-products.php:503
+msgid "And it is very easy:"
+msgstr "Och det är mycket enkelt:"
+
+#: AL1/single-products.php:507 AL2/single-products.php:471
+#: AL3/single-products.php:505
+msgid "Go to"
+msgstr "Gå till"
+
+#: AL1/single-products.php:508 AL2/single-products.php:471
+#: AL3/single-products.php:506
+msgid "and enter the wanted item into search field."
+msgstr "och ange det önskade objektet i sökfältet."
+
+#: AL1/single-products.php:509 AL2/single-products.php:472
+#: AL3/single-products.php:507
+msgid "Having made your choice, click \"Contact supplier\" button on the right"
+msgstr "Efter att ha gjort ditt val, klicka på \"Kontakta leverantör\" -knappen på höger"
+
+#: AL1/single-products.php:510 AL2/single-products.php:473
+#: AL3/single-products.php:508
+msgid "On the next page enter your request and click \"Send\" button."
+msgstr "På nästa sida anger du din förfrågan och klickar på \"Skicka\" -knappen."
+
+#: AL1/single-products.php:511 AL2/single-products.php:474
+#: AL3/single-products.php:509
+msgid "Upon clicking you will be asked to get registered. Do it and wait for the reply."
+msgstr "När du klickar blir du ombedd att bli registrerad. Gör det och vänta på svar."
+
+#: AL1/single-products.php:513 AL2/single-products.php:476
+#: AL3/single-products.php:511
+msgid "ARE YOU READY TO SAVE UP TO 90%?"
+msgstr "ÄR DU REDO ATT SPARA UPP TILL 90%?"
+
+#: AL1/single-products.php:515 AL2/single-products.php:477
+#: AL3/single-products.php:513
+msgid "GO TO ALIBABA"
+msgstr "GÅ TILL ALIBABA"
+
+#: AL1/customize/colors.php:100
+#: AL1/libs/customization/class.CZ.Settings.php:261 AL2/customize/colors.php:87
+#: AL2/libs/customization/class.CZ.Settings.php:255 AL3/customize/colors.php:48
+#: AL3/libs/customization/class.CZ.Settings.php:263
+msgid "Header(slider) text button 2"
+msgstr "Rubriktext(bildspel) knapp 2"
+
+#: AL1/customize/colors.php:112 AL2/customize/colors.php:99
+#: AL3/customize/colors.php:60
+msgid "Header(slider) text button 2(hover)"
+msgstr "Rubriktext(bildspel) knapp 2(sväva)"
+
+#: AL1/customize/colors.php:124
+#: AL1/libs/customization/class.CZ.Settings.php:271
+#: AL2/customize/colors.php:111
+#: AL2/libs/customization/class.CZ.Settings.php:265 AL3/customize/colors.php:72
+#: AL3/libs/customization/class.CZ.Settings.php:273
+msgid "Header(slider) text button 3"
+msgstr "Rubriktext(bildspel) knapp 3 "
+
+#: AL1/customize/colors.php:136 AL2/customize/colors.php:123
+#: AL3/customize/colors.php:84
+msgid "Header(slider) text button 3(hover)"
+msgstr "Rubriktext(bildspel) knapp 3(sväva) "
+
+#: AL1/single-products.php:157 AL2/single-products.php:150
+#: AL3/single-products.php:157
+msgid "Order Now"
+msgstr "Beställ nu"
+
+#: AL1/single-products.php:169 AL1/single-products.php:491
+#: AL2/single-products.php:165 AL2/single-products.php:458
+#: AL3/single-products.php:169 AL3/single-products.php:491
+msgid "Learn How to Buy it Even Cheaper!"
+msgstr "Lär dig hur man köper det ännu billigare!"
+
+#: AL1/templates/content-none.php:7
+msgid "It seems we can't find what you're looking for. Perhaps searching can help."
+msgstr "Det verkar som om vi kan inte hitta vad du letar efter. Kanske sökning kan hjälpa."
+
+#: AL1/templates/about-theme.php:60 AL2/templates/about-theme.php:66
+#: AL3/templates/about-theme.php:66
+msgid "AliOne WordPress theme works well on many different kinds of screens with resolutions ranging from PC desktops to smart phones."
+msgstr "AliOne Wordpress tema fungerar bra på många olika typer av skärmar med upplösningar som sträcker sig från PC-datorer till smarta telefoner."
+
+#: AL1/customize/seo.php:51 AL1/libs/customization/class.CZ.Settings.php:359
+#: AL2/libs/customization/class.CZ.Settings.php:353
+#: AL3/libs/customization/class.CZ.Settings.php:361
+msgid "SEO Article on home page (before footer)"
+msgstr "SEO artikel på hemsidan (före sidfot)"
+
+#: AL1/customize/text.php:166 AL1/libs/customization/class.CZ.Settings.php:169
+#: AL2/customize/text.php:180 AL2/libs/customization/class.CZ.Settings.php:182
+#: AL3/customize/text.php:180 AL3/libs/customization/class.CZ.Settings.php:180
+msgid "\"from Aliexpress\" text"
+msgstr "\"från Aliexpress\" text"
+
+#: AL1/single-products.php:338 AL2/single-products.php:318
+#: AL3/single-products.php:338
+msgid "1 Star"
+msgstr "1 stjärna"
+
+#: AL1/customize/images.php:63 AL1/libs/customization/class.CZ.Settings.php:134
+#: AL2/customize/images.php:63 AL2/libs/customization/class.CZ.Settings.php:134
+#: AL3/libs/customization/class.CZ.Settings.php:134
+msgid "Free Shipping image"
+msgstr "Gratis frakt bild"
+
+#: AL1/customize/social.php:79 AL1/libs/customization/class.CZ.Settings.php:317
+#: AL2/libs/customization/class.CZ.Settings.php:311
+#: AL3/libs/customization/class.CZ.Settings.php:319
+msgid "Pinterest (url)"
+msgstr "Pinterest (url)"
+
+#: AL1/customize/text.php:116 AL1/libs/customization/class.CZ.Settings.php:206
+#: AL2/customize/text.php:130 AL2/libs/customization/class.CZ.Settings.php:219
+#: AL3/customize/text.php:130 AL3/libs/customization/class.CZ.Settings.php:217
+msgid "Catalogue text"
+msgstr "Katalog text"
+
+#: AL1/single-products.php:379 AL2/single-products.php:360
+#: AL3/single-products.php:379
+msgid "No Feedback Score"
+msgstr "Ingen feedback poäng"
+
+#: AL1/single-products.php:357 AL2/single-products.php:337
+#: AL3/single-products.php:357
+msgid "Feedback"
+msgstr "Feedback"
+
+#: AL1/single-products.php:271 AL2/single-products.php:248
+#: AL3/single-products.php:271
+msgid "Average Star Rating:"
+msgstr "Genomsnittligt stjärnor:"
+
+#: AL1/single-products.php:276 AL2/single-products.php:253
+#: AL3/single-products.php:276
+msgid "out of"
+msgstr "ut av"
+
+#: AL1/single-products.php:283 AL2/single-products.php:260
+#: AL3/single-products.php:283
+msgid "Feedback Rating for This Product"
+msgstr "Feedback betyg för denna produkt"
+
+#: AL1/single-products.php:286 AL2/single-products.php:263
+#: AL3/single-products.php:286
+msgid "Positive"
+msgstr "Positiv"
+
+#: AL1/single-products.php:288 AL2/single-products.php:265
+#: AL3/single-products.php:288
+msgid "5 Stars"
+msgstr "5 stjärnor"
+
+#: AL1/single-products.php:300 AL2/single-products.php:277
+#: AL3/single-products.php:300
+msgid "4 Stars"
+msgstr "4 stjärnor"
+
+#: AL1/single-products.php:311 AL1/single-products.php:324
+#: AL2/single-products.php:290 AL2/single-products.php:304
+#: AL3/single-products.php:311 AL3/single-products.php:324
+msgid "Neutral"
+msgstr "Neutral"
+
+#: AL1/single-products.php:313 AL2/single-products.php:292
+#: AL3/single-products.php:313
+msgid "3 Stars"
+msgstr "3 stjärnor"
+
+#: AL1/single-products.php:326 AL2/single-products.php:306
+#: AL3/single-products.php:326
+msgid "2 Stars"
+msgstr "2 stjärnor"
+
+#: AL1/single-products.php:356 AL2/single-products.php:336
+#: AL3/single-products.php:356
+msgid "Rating"
+msgstr "Betyg"
+
+#: AL1/customize/social.php:66 AL1/libs/customization/class.CZ.Settings.php:312
+#: AL2/libs/customization/class.CZ.Settings.php:306
+#: AL3/libs/customization/class.CZ.Settings.php:314
+msgid "Youtube (url)"
+msgstr "Youtube (url)"
+
+#: AL1/functions.php:1159
+msgid "piece"
+msgstr "del"
+
+#: AL1/functions.php:1160
+msgid "lot"
+msgstr "varuparti"
+
+#: AL3/templates/products-cat-5.php:9
+msgid "Featured"
+msgstr "Utvalda"
+
+#: AL1/home.php:81 AL3/home.php:75
+msgid "Specials"
+msgstr "Erbjudande"
+
+#: AL1/templates/about-theme.php:74 AL2/templates/about-theme.php:80
+#: AL3/templates/about-theme.php:80
+msgid "Clean Code"
+msgstr "Ren kod"
+
+#: AL1/templates/about-theme.php:75 AL2/templates/about-theme.php:81
+#: AL3/templates/about-theme.php:81
+msgid "Translation Ready"
+msgstr "Översättning klar"
+
+#: AL1/templates/about-theme.php:76 AL2/templates/about-theme.php:82
+#: AL3/templates/about-theme.php:82
+msgid "Easy Theme Options"
+msgstr "Lätt tema alternativ"
+
+#: AL1/templates/about-theme.php:77 AL2/templates/about-theme.php:83
+#: AL3/templates/about-theme.php:83
+msgid "Social Media Links"
+msgstr "Social media länkar"
+
+#: AL1/templates/about-theme.php:78 AL2/templates/about-theme.php:84
+#: AL3/templates/about-theme.php:84
+msgid "HTML5 & CSS3"
+msgstr "HTML5 & CSS3"
+
+#: AL1/templates/about-theme.php:79 AL2/templates/about-theme.php:85
+#: AL3/templates/about-theme.php:85
+msgid "Cross Browser Compatible"
+msgstr "Kors webbläsare kompatibel"
+
+#: AL1/templates/about-theme.php:80 AL2/templates/about-theme.php:86
+#: AL3/templates/about-theme.php:86
+msgid "Detailed Documentation"
+msgstr "Detaljerad dokumentation"
+
+#: AL1/templates/about-theme.php:81 AL2/templates/about-theme.php:87
+#: AL3/templates/about-theme.php:87
+msgid "Regular Updates"
+msgstr "Regelbundna uppdateringar"
+
+#: AL1/templates/about-theme.php:82 AL2/templates/about-theme.php:88
+#: AL3/templates/about-theme.php:88
+msgid "And much more"
+msgstr "Och mycket mer"
+
+#: AL1/templates/about-theme.php:84 AL2/templates/about-theme.php:90
+#: AL3/templates/about-theme.php:90
+msgid "Theme Support"
+msgstr "Tema support"
+
+#: AL1/templates/about-theme.php:86 AL2/templates/about-theme.php:92
+#: AL3/templates/about-theme.php:92
+msgid "Using this Theme you receive regular updates and constant support. We will help you to set up the theme and guide you through any issues that may arise."
+msgstr "Med hjälp av detta tema du att få regelbundna uppdateringar och ständigt stöd. Vi hjälper dig att ställa in temat och guida dig genom eventuella problem som kan uppstå."
+
+#: AL1/customize/images.php:13 AL2/customize/images.php:13
+msgid "Logo & Favicon"
+msgstr "Logo och favicon"
+
+#: AL1/customize/images.php:51 AL1/libs/customization/class.CZ.Settings.php:129
+#: AL2/customize/images.php:51 AL2/libs/customization/class.CZ.Settings.php:129
+#: AL3/libs/customization/class.CZ.Settings.php:129
+msgid "Favicon"
+msgstr "Favikon"
+
+#: AL1/customize/seo.php:11 AL1/libs/customization/class.CZ.Settings.php:62
+#: AL2/libs/customization/class.CZ.Settings.php:62
+#: AL3/libs/customization/class.CZ.Settings.php:62
+msgid "SEO"
+msgstr "SEO"
+
+#: AL1/customize/seo.php:24 AL1/libs/customization/class.CZ.Settings.php:349
+#: AL2/libs/customization/class.CZ.Settings.php:343
+#: AL3/libs/customization/class.CZ.Settings.php:351
+msgid "Keywords"
+msgstr "Nyckelord"
+
+#: AL1/templates/about-theme.php:42 AL2/templates/about-theme.php:48
+#: AL3/templates/about-theme.php:48
+msgid "100% Clean HTML"
+msgstr "100% ren HTML"
+
+#: AL1/templates/about-theme.php:47 AL2/templates/about-theme.php:53
+#: AL3/templates/about-theme.php:53
+msgid "100% Valid CSS"
+msgstr "100% giltig CSS"
+
+#: AL1/templates/about-theme.php:52 AL2/templates/about-theme.php:58
+#: AL3/templates/about-theme.php:58
+msgid "WP validation score: 100 %"
+msgstr "WP validering poäng: 100%"
+
+#: AL1/templates/about-theme.php:56
+msgid "AliOne is a WordPress theme created for building AliExpress affiliate websites based on AliPlugin. The Theme has a clean, completely responsive design and created with most modern technologies. We hope you will enjoy it and have a good time developing your affiliate sites and earning with AliExpress."
+msgstr "AliOne är ett Wordpress tema skapat för att bygga AliExpress affiliate webbplatser baserade på AliPlugin. Temat har en ren, helt responsiv design och skapat med de flesta moderna tekniker. Vi hoppas att ni kommer att njuta av det och ha en bra tid att utveckla dina affiliate-sajter och tjäna med AliExpress."
+
+#: AL1/templates/about-theme.php:58 AL2/templates/about-theme.php:64
+#: AL3/templates/about-theme.php:64
+msgid "Fully Responsive Layout"
+msgstr "Fullständigt responsiv layout"
+
+#: AL1/templates/about-theme.php:62 AL2/templates/about-theme.php:68
+#: AL3/templates/about-theme.php:68
+msgid "Elegant Clean Design"
+msgstr "Elegant ren design"
+
+#: AL1/templates/about-theme.php:64 AL2/templates/about-theme.php:70
+#: AL3/templates/about-theme.php:70
+msgid "Elegant and stylish minimalistic design of AliOne theme is created to meet all modern requirements and trends of successful online stores."
+msgstr "Elegant och stilfull minimalistisk design av AliOne tema är skapat för att uppfylla alla moderna krav och trender på framgångsrika nätbutiker."
+
+#: AL1/templates/about-theme.php:66 AL2/templates/about-theme.php:72
+#: AL3/templates/about-theme.php:72
+msgid "Easy to Customize"
+msgstr "Lätt att skräddarsy"
+
+#: AL1/templates/about-theme.php:68 AL2/templates/about-theme.php:74
+#: AL3/templates/about-theme.php:74
+msgid "You can personalize your site with a custom logo, header, background, widgets, banners, social media links, etc. The theme includes a special customization menu for making any changes quick and easily."
+msgstr "Du kan anpassa din webbplats med en egen logotyp, sidhuvud, bakgrund, widgets, banderoller, sociala medier länkar, etc. Temat innehåller en särskild anpassnings meny för att göra några ändringar snabbt och lätt."
+
+#: AL1/templates/about-theme.php:70 AL2/templates/about-theme.php:76
+#: AL3/templates/about-theme.php:76
+msgid "Features"
+msgstr "Funktioner"
+
+#: AL1/templates/about-theme.php:71
+msgid "AliOne Theme is bundled with all necessary features. Some highlights are:"
+msgstr "AliOne tema levereras med alla nödvändiga funktioner. Några höjdpunkter är:"
+
+#: AL1/templates/about-theme.php:73 AL2/templates/about-theme.php:79
+#: AL3/templates/about-theme.php:79
+msgid "SEO Friendly"
+msgstr "SEO vänligt"
+
+#: AL1/templates/protection.php:1 AL2/templates/protection.php:1
+msgid "Refund or Keep items not as described"
+msgstr "Återbetala eller behåll poster som inte var som det beskrevs"
+
+#: AL1/templates/sort.php:4
+msgid "Sort by"
+msgstr "Sortera efter"
+
+#: AL1/templates/uploads.php:1
+msgid "Drop files here"
+msgstr "Släpp filer här"
+
+#: AL1/templates/uploads.php:1
+msgctxt "Uploader: Drop files here - or - Select Files"
+msgid "or"
+msgstr "eller"
+
+#: AL1/templates/uploads.php:1
+msgid "Select Files"
+msgstr "Välj filer"
+
+#: AL1/walkers/wp-bootstrap-comments/wp_bootstrap_comments.php:70
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr "<cite class=\"fn\">%s</cite>"
+
+#: AL1/walkers/wp-bootstrap-comments/wp_bootstrap_comments.php:75
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: AL1/walkers/wp-bootstrap-comments/wp_bootstrap_comments.php:76
+msgid "(Edit)"
+msgstr "(Redigera)"
+
+#: AL1/walkers/wp-bootstrap-comments/wp_bootstrap_comments.php:80
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar inväntar moderering."
+
+#: AL1/customize/social.php:24 AL1/libs/customization/class.CZ.Settings.php:302
+#: AL2/libs/customization/class.CZ.Settings.php:296
+#: AL3/libs/customization/class.CZ.Settings.php:304
+msgid "Facebook (url)"
+msgstr "Facebook (url)"
+
+#: AL1/customize/social.php:53
+msgid "Google Plus (url)"
+msgstr "Google Plus (url)"
+
+#: AL1/customize/social.php:40 AL1/libs/customization/class.CZ.Settings.php:305
+#: AL2/libs/customization/class.CZ.Settings.php:299
+#: AL3/libs/customization/class.CZ.Settings.php:307
+msgid "Twitter (url)"
+msgstr "Twitter (url)"
+
+#: AL1/customize/text.php:11 AL2/customize/text.php:11
+#: AL3/customize/text.php:11
+msgid "Text"
+msgstr "Text"
+
+#: AL1/customize/text.php:24 AL1/libs/customization/class.CZ.Settings.php:175
+#: AL2/libs/customization/class.CZ.Settings.php:188
+#: AL3/libs/customization/class.CZ.Settings.php:186
+msgid "Text inline"
+msgstr "Text inline"
+
+#: AL1/customize/text.php:38 AL1/libs/customization/class.CZ.Settings.php:178
+#: AL2/customize/text.php:24 AL2/libs/customization/class.CZ.Settings.php:191
+#: AL3/customize/text.php:24 AL3/libs/customization/class.CZ.Settings.php:189
+msgid "Text top header"
+msgstr "Text top header"
+
+#: AL1/customize/text.php:52 AL1/libs/customization/class.CZ.Settings.php:184
+#: AL2/customize/text.php:38 AL2/libs/customization/class.CZ.Settings.php:197
+#: AL3/customize/text.php:38 AL3/libs/customization/class.CZ.Settings.php:195
+msgid "Text header"
+msgstr "Text header"
+
+#: AL1/customize/seo.php:37 AL1/customize/text.php:88
+#: AL1/customize/text.php:102 AL1/libs/customization/class.CZ.Settings.php:197
+#: AL1/libs/customization/class.CZ.Settings.php:200
+#: AL1/libs/customization/class.CZ.Settings.php:352 AL2/customize/text.php:74
+#: AL2/customize/text.php:88 AL2/libs/customization/class.CZ.Settings.php:210
+#: AL2/libs/customization/class.CZ.Settings.php:213
+#: AL2/libs/customization/class.CZ.Settings.php:346 AL3/customize/text.php:74
+#: AL3/customize/text.php:88 AL3/libs/customization/class.CZ.Settings.php:208
+#: AL3/libs/customization/class.CZ.Settings.php:211
+#: AL3/libs/customization/class.CZ.Settings.php:354
+msgid "Description"
+msgstr "Beskrivning"
+
+#: AL1/templates/about-theme.php:11 AL2/templates/about-theme.php:17
+#: AL3/templates/about-theme.php:17
+msgid "Enter copyright text"
+msgstr "Ange upphovs text"
+
+#: AL1/templates/content-audio.php:1 AL1/templates/content-gallery.php:1
+#: AL1/templates/content-image.php:1 AL1/templates/content-video.php:1
+#: AL1/templates/content.php:9
+msgid "has blogged"
+msgstr "har bloggat"
+
+#: AL1/templates/content-audio.php:1 AL1/templates/content-gallery.php:1
+#: AL1/templates/content-image.php:1 AL1/templates/content-video.php:1
+#: AL1/templates/content.php:10
+msgid "posts"
+msgstr "inlägg"
+
+#: AL1/templates/content-none.php:3
+msgid "Nothing Found"
+msgstr "Inget hittat"
+
+#: AL1/templates/content-none.php:5
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Redo att publicera ditt första inlägg? <a href=\"%1$s\">Kom igång här</a>."
+
+#: AL1/templates/content-none.php:6
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Tyvärr, men ingenting matchade dina sökord. Vänligen försök igen med några olika sökord."
+
+#: AL1/templates/filter.php:3 AL2/templates/filter.php:1
+msgid "Sort by Price"
+msgstr "Sortera efter pris"
+
+#: AL1/templates/filter.php:11 AL2/config/init.php:180
+#: AL2/templates/filter.php:1
+msgid "Categories"
+msgstr "Kategorier"
+
+#: AL1/templates/filter.php:19 AL2/templates/filter.php:1
+msgid "Select all"
+msgstr "Välj alla"
+
+#: AL1/templates/filter.php:22 AL2/templates/filter.php:1
+msgid "Unselect all"
+msgstr "Avmarkera alla"
+
+#: AL1/templates/protection.php:1 AL2/templates/protection.php:1
+msgid "Full Refund if you don't receive your order"
+msgstr "Full återbetalning om du inte får din beställning"
+
+#: AL1/customize/colors.php:23 AL1/libs/customization/class.CZ.Settings.php:231
+#: AL2/customize/colors.php:23 AL2/libs/customization/class.CZ.Settings.php:244
+#: AL3/customize/colors.php:23 AL3/libs/customization/class.CZ.Settings.php:242
+msgid "Color (Search, Catalog, Links, Tabs, Price)"
+msgstr "Färg (Sök, Katalog, Länkar, Flikar, Pris)"
+
+#: AL1/customize/colors.php:36 AL1/libs/customization/class.CZ.Settings.php:234
+#: AL2/customize/colors.php:36 AL2/libs/customization/class.CZ.Settings.php:247
+#: AL3/customize/colors.php:36 AL3/libs/customization/class.CZ.Settings.php:245
+msgid "Color (Search, Catalog, Links, Tabs, Price) Hover"
+msgstr "Färg (Sök, Katalog, Länkar, Flikar, Pris) Sväva"
+
+#: AL1/customize/colors.php:49 AL1/libs/customization/class.CZ.Settings.php:241
+#: AL3/libs/customization/class.CZ.Settings.php:252
+msgid "Color (Menu)"
+msgstr "Färg (Meny)"
+
+#: AL1/customize/colors.php:62 AL1/libs/customization/class.CZ.Settings.php:244
+#: AL3/libs/customization/class.CZ.Settings.php:255
+msgid "Color (Menu) Hover"
+msgstr "Färg (Meny) Sväva"
+
+#: AL1/customize/colors.php:75 AL1/libs/customization/class.CZ.Settings.php:251
+msgid "Color (Menu) Border Right"
+msgstr "Färg (Meny) Gräns Höger"
+
+#: AL1/customize/colors.php:88 AL1/libs/customization/class.CZ.Settings.php:254
+msgid "Color (Menu) Border Left"
+msgstr "Färg (Meny) Gräns Vänster"
+
+#: AL1/customize/fonts.php:11
+msgid "Google Fonts"
+msgstr "Google typsnitt"
+
+#: AL1/customize/fonts.php:25
+msgid "Url for font (Global)"
+msgstr "Url för typsnitt (globala)"
+
+#: AL1/customize/fonts.php:39
+msgid "Name font (Global)"
+msgstr "Namn typsnitt (globala)"
+
+#: AL1/customize/fonts.php:53
+msgid "Url for font (Header)"
+msgstr "Url för typsnitt (sidhuvud)"
+
+#: AL1/customize/fonts.php:67
+msgid "Name font (Header)"
+msgstr "Namn typsnitt (sidhuvud)"
+
+#: AL1/customize/images.php:25 AL1/libs/customization/class.CZ.Settings.php:115
+#: AL2/customize/images.php:25 AL2/libs/customization/class.CZ.Settings.php:115
+#: AL3/libs/customization/class.CZ.Settings.php:115
+msgid "Header"
+msgstr "Sidhuvud"
+
+#: AL1/customize/images.php:38 AL1/libs/customization/class.CZ.Settings.php:120
+#: AL2/customize/images.php:38 AL2/libs/customization/class.CZ.Settings.php:120
+#: AL3/libs/customization/class.CZ.Settings.php:120
+msgid "Footer"
+msgstr "Sidfot"
+
+#: AL1/customize/nav.php:20 AL1/libs/customization/class.CZ.Settings.php:69
+#: AL2/customize/nav.php:20 AL2/libs/customization/class.CZ.Settings.php:69
+#: AL3/libs/customization/class.CZ.Settings.php:69
+msgid "Navigation"
+msgstr "Navigation"
+
+#: AL1/customize/nav.php:33 AL1/libs/customization/class.CZ.Settings.php:390
+#: AL2/customize/nav.php:33 AL2/libs/customization/class.CZ.Settings.php:384
+#: AL3/libs/customization/class.CZ.Settings.php:392
+msgid "Header menu"
+msgstr "Rubrikmenyn"
+
+#: AL1/customize/nav.php:48 AL1/libs/customization/class.CZ.Settings.php:394
+#: AL2/libs/customization/class.CZ.Settings.php:388
+#: AL3/libs/customization/class.CZ.Settings.php:396
+msgid "Main menu"
+msgstr "Huvudmeny"
+
+#: AL1/customize/nav.php:63 AL1/libs/customization/class.CZ.Settings.php:398
+#: AL2/customize/nav.php:48 AL2/libs/customization/class.CZ.Settings.php:392
+#: AL3/libs/customization/class.CZ.Settings.php:400
+msgid "Footer menu"
+msgstr "Sidfot meny"
+
+#: AL1/customize/products.php:36 AL1/customize/products.php:51
+#: AL1/customize/products.php:66 AL1/customize/products.php:81
+#: AL2/customize/products.php:36 AL2/customize/products.php:51
+#: AL3/customize/products.php:31
+msgid "Category"
+msgstr "Kategori"
+
+#: AL1/customize/social.php:11
+msgid "Social"
+msgstr "Socialt"
+
+#: AL1/single-products.php:401 AL1/single-products.php:407
+#: AL1/single-products.php:413 AL1/single-products.php:418
+#: AL2/single-products.php:382 AL2/single-products.php:387
+#: AL2/single-products.php:392 AL2/single-products.php:397
+#: AL3/single-products.php:401 AL3/single-products.php:407
+#: AL3/single-products.php:413 AL3/single-products.php:418
+msgid "days"
+msgstr "dagar"
+
+#: AL1/single-products.php:416 AL2/single-products.php:395
+#: AL3/single-products.php:416
+msgid "Post Air Mail"
+msgstr "Skicka med luftpost"
+
+#: AL1/single-products.php:417 AL2/single-products.php:396
+#: AL3/single-products.php:417
+msgid "Free Shipping"
+msgstr "Gratis frakt"
+
+#: AL1/single-products.php:427 AL2/single-products.php:406
+#: AL3/single-products.php:427
+msgid "Return Policy"
+msgstr "Returrätt"
+
+#: AL1/single-products.php:428 AL2/single-products.php:407
+#: AL3/single-products.php:428
+msgid "If the product you receive is not as described or low quality, the seller promises that you may return it before order completion (when you click \"Confirm Order Received\" or exceed confirmation timeframe) and receive a full refund. The return shipping fee will be paid by you. Or, you can choose to keep the product and agree the refund amount directly with the seller."
+msgstr "Om produkten du får är inte som beskrivs eller låg kvalitet, lovar säljaren att du kan lämna tillbaka den innan beställning slutförts (när du klickar på \"Bekräfta order mottagen\" eller överstiger bekräftelse tidsram) och få full återbetalning. Retur sändningsavgiften betalas av dig. Eller så kan du välja att behålla produkten och komma överens om returbeloppet direkt med säljaren."
+
+#: AL1/single-products.php:429 AL2/single-products.php:408
+#: AL3/single-products.php:429
+msgid "N.B.: If the seller provides the \"Longer Protection\" service on this product, you may ask for refund up to 15 days after order completion."
+msgstr "OBS: Om säljaren ger \"längre skydd\" service av denna produkt, kan du begära återbetalning upp till 15 dagar efter beställning slutförts."
+
+#: AL1/single-products.php:433 AL2/single-products.php:412
+#: AL3/single-products.php:433
+msgid "Seller Service"
+msgstr "Säljare tjänster"
+
+#: AL1/single-products.php:435 AL2/single-products.php:414
+#: AL3/single-products.php:435
+msgid "If you do not receive your purchase within 60 days, you can ask for a full refund before order completion (when you click \"Confirm Order Received\" or exceed confirmation timeframe). "
+msgstr "Om du inte får ditt köp inom 60 dagar, kan du be om en full återbetalning innan beställning slutförts (när du klickar på \"Bekräfta order mottagen\" eller överstiger bekräftelse tidsram)."
+
+#: AL1/config/config.php:26 AL3/config/config.php:27
+msgid "Smarter Shopping, Better Living!"
+msgstr "Smartare shopping, bättre liv!"
+
+#: AL1/config/config.php:27 AL2/config/config.php:30 AL3/config/config.php:28
+msgid "24/7 Customer Service (800) 927-7671"
+msgstr "24/7 kundservice (800) 927-7671"
+
+#: AL1/config/config.php:28 AL2/config/config.php:31 AL3/config/config.php:29
+msgid "Order anytime and always receive <b>FAST, FREE Shipping</b> on all orders!"
+msgstr "Beställ när som helst och få alltid <b>SNABB, GRATIS frakt</b> på alla beställningar!"
+
+#: AL1/config/init.php:72 AL1/config/init.php:74 AL2/config/init.php:73
+#: AL2/config/init.php:75
+msgid "Blog"
+msgstr "Blogg"
+
+#: AL1/config/init.php:79 AL1/config/init.php:81 AL1/config/init.php:104
+#: AL2/config/init.php:80 AL2/config/init.php:82 AL2/config/init.php:105
+msgid "Shipping & Delivery"
+msgstr "Frakt och leverans"
+
+#: AL1/config/init.php:85 AL1/config/init.php:87 AL1/config/init.php:105
+#: AL1/templates/protection.php:1 AL2/config/init.php:86 AL2/config/init.php:88
+#: AL2/config/init.php:106 AL2/templates/protection.php:1
+msgid "Buyer Protection"
+msgstr "Köpskydd"
+
+#: AL1/config/init.php:108 AL1/customize/products.php:23
+#: AL1/templates/filter.php:37 AL2/config/init.php:109
+#: AL2/customize/products.php:23 AL2/templates/filter.php:1
+msgid "Products"
+msgstr "Produkter"
+
+#: AL1/config/init.php:151 AL2/config/init.php:152
+msgid "All categories"
+msgstr "Alla kategorier"
+
+#: AL1/customize/analyticstracking.php:11
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: AL1/customize/analyticstracking.php:23
+msgid "Tracking Script"
+msgstr "Spårningsskript"
+
+#: AL1/single-products.php:193 AL2/single-products.php:187
+#: AL3/single-products.php:193
+msgid "Guarantees: On-time Delivery 60 days"
+msgstr "Garantier: leverans i tid 60 dagar"
+
+#: AL1/single-products.php:201 AL3/single-products.php:201
+msgid "Sort By"
+msgstr "Sortera efter"
+
+#: AL1/single-products.php:205 AL3/single-products.php:205
+msgid "Top-rated Seller"
+msgstr "Topprankad säljare"
+
+#: AL1/single-products.php:222 AL2/single-products.php:208
+#: AL3/single-products.php:222
+msgid "Share"
+msgstr "Dela"
+
+#: AL1/single-products.php:226 AL1/single-products.php:450
+#: AL3/single-products.php:226 AL3/single-products.php:450
+msgid "Most Popular from Category"
+msgstr "Mest populära från kategori"
+
+#: AL1/single-products.php:235 AL2/single-products.php:219
+#: AL3/single-products.php:235
+msgid "Product Description"
+msgstr "Produktbeskrivning"
+
+#: AL1/single-products.php:240 AL2/single-products.php:222
+#: AL3/single-products.php:240
+msgid "Reviews"
+msgstr "Omdömen"
+
+#: AL1/single-products.php:245 AL2/single-products.php:225
+#: AL3/single-products.php:245
+msgid "Shipping and payment"
+msgstr "Frakt och betalning"
+
+#: AL1/single-products.php:250 AL2/single-products.php:228
+#: AL3/single-products.php:250
+msgid "Seller Guarantees"
+msgstr "Säljargarantier"
+
+#: AL1/single-products.php:391 AL2/single-products.php:373
+#: AL3/single-products.php:391
+msgid "Shipping Company"
+msgstr "Fraktföretag"
+
+#: AL1/single-products.php:392 AL2/single-products.php:374
+#: AL3/single-products.php:392
+msgid "Shipping Cost"
+msgstr "Fraktkostnad"
+
+#: AL1/single-products.php:393 AL2/single-products.php:375
+#: AL3/single-products.php:393
+msgid "Estimated Delivery Time"
+msgstr "Beräknad leveranstid"
+
+#: AL1/image.php:1
+msgid "Previous Image"
+msgstr "Föregående bild"
+
+#: AL1/image.php:1
+msgid "Next Image"
+msgstr "Nästa bild"
+
+#: AL1/searchform.php:1
+msgid "Search for a product, category or brand"
+msgstr "Sök efter en produkt, kategori eller varumärke"
+
+#: AL1/single-products.php:35 AL2/single-products.php:38
+#: AL3/single-products.php:35
+msgid "Image not available"
+msgstr "Det finns ingen bild"
+
+#: AL1/single-products.php:40 AL2/single-products.php:43
+#: AL3/single-products.php:40
+msgid "Click to see details"
+msgstr "Klicka för att se detaljer"
+
+#: AL1/single-products.php:79 AL2/single-products.php:83
+#: AL3/single-products.php:79
+msgid "of buyers enjoyed this product!"
+msgstr "av köparna gillade denna produkt!"
+
+#: AL1/single-products.php:159 AL2/single-products.php:152
+#: AL3/single-products.php:159
+msgid "from AliExpress"
+msgstr "från AliExpress"
+
+#: AL1/single-products.php:184 AL2/single-products.php:181
+#: AL3/single-products.php:184
+msgid "45 days Money back"
+msgstr "45 dagar pengarna tillbaka"
+
+#: AL1/single-products.php:185 AL2/single-products.php:181
+#: AL3/single-products.php:185
+msgid "Returns accepted if product not as described, buyer pays return shipping; or keep the product & agree refund with seller."
+msgstr "Returer accepteras om produkten inte är som beskrivs, köparen betalar returfrakten; eller behåll produkten och enas om återbetalning med säljaren."
+
+#: AL1/single-products.php:192 AL1/single-products.php:435
+#: AL2/single-products.php:187 AL2/single-products.php:414
+#: AL3/single-products.php:192 AL3/single-products.php:435
+msgid "On-time Delivery"
+msgstr "Leverans i tid"
+
+#: AL1/functions.php:732
+msgid "Your email address will not be published."
+msgstr "Din e-postadress kommer inte att publiceras."
+
+#: AL1/functions.php:733
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes: %s"
+msgstr "Du kan använda dessa <abbr title=\"Hypertext Markup Language\">HTML</abbr> taggar och attribut: %s"
+
+#: AL1/functions.php:736
+msgid "Leave a Reply"
+msgstr "Lämna ett svar"
+
+#: AL1/functions.php:737
+msgid "Leave a Reply to %s"
+msgstr "Lämna ett svar till %s"
+
+#: AL1/functions.php:738
+msgid "Cancel reply"
+msgstr "Avbryt svar"
+
+#: AL1/functions.php:739
+msgid "Post Comment"
+msgstr "Skicka kommentar"
+
+#: AL1/functions.php:978 AL1/functions.php:979 AL1/templates/about-theme.php:35
+#: AL2/templates/about-theme.php:41 AL3/templates/about-theme.php:41
+msgid "About"
+msgstr "Om"
+
+#: AL1/functions.php:1067
+msgid "Allowed Files"
+msgstr "Tillåtna filer"
+
+#: AL1/home.php:22 AL1/home.php:43 AL1/home.php:64
+#: AL1/templates/text-line.php:11 AL2/home.php:22 AL2/home.php:43
+#: AL2/home.php:64 AL3/home.php:18 AL3/home.php:40 AL3/home.php:62
+#: AL3/templates/text-line.php:12
+msgid "Go to Catalogue"
+msgstr "Gå till katalog"
+
+#: AL1/image.php:1
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: AL1/functions.php:132 AL1/single-products.php:277
+#: AL2/single-products.php:254 AL3/single-products.php:277
+msgid "Ratings"
+msgstr "Betyg"
+
+#: AL1/functions.php:136 AL1/single-products.php:122
+#: AL1/single-products.php:137 AL1/single-products.php:145
+#: AL1/single-products.php:461 AL1/single-products.php:474
+#: AL1/single-products.php:480 AL2/single-products.php:121
+#: AL2/single-products.php:133 AL2/single-products.php:428
+#: AL2/single-products.php:441 AL2/single-products.php:447
+#: AL3/single-products.php:122 AL3/single-products.php:137
+#: AL3/single-products.php:145 AL3/single-products.php:461
+#: AL3/single-products.php:474 AL3/single-products.php:480
+msgid "Price"
+msgstr "Pris"
+
+#: AL1/functions.php:270 AL2/functions.php:43
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: AL1/functions.php:372 AL1/config/init.php:107 AL2/config/init.php:108
+msgid "Home"
+msgstr "Hem"
+
+#: AL1/functions.php:373
+msgid "Archive article \"%s\""
+msgstr "Arkivera artikel \"%s\""
+
+#: AL1/functions.php:374
+msgid "Search Results for: %s"
+msgstr "Sökresultat för: %s"
+
+#: AL1/functions.php:375 AL1/tag.php:1 AL2/tag.php:1
+msgid "Tag Archives: %s"
+msgstr "Tagga arkiv: %s"
+
+#: AL1/functions.php:377
+msgid "Not Found"
+msgstr "Hittades inte"
+
+#: AL1/functions.php:576
+msgid "Page"
+msgstr "Sida"
+
+#: AL1/functions.php:610
+msgid "More about"
+msgstr "Mer om"
+
+#: AL1/functions.php:656 AL1/functions.php:709 AL1/single-products.php:355
+#: AL2/single-products.php:335 AL3/single-products.php:355
+msgid "Name"
+msgstr "Namn"
+
+#: AL1/functions.php:658 AL1/functions.php:711
+msgid "Email"
+msgstr "E-post"
+
+#: AL1/functions.php:660 AL1/functions.php:713
+msgid "Website"
+msgstr "Webbplats"
+
+#: AL1/functions.php:676 AL1/functions.php:729
+msgid "Comment"
+msgstr "Kommentar"
+
+#: AL1/functions.php:717
+msgid "Required fields are marked %s"
+msgstr "Obligatoriska fält är märkta %s"
+
+#: AL1/functions.php:730
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Du måste vara <a href=\"%s\">inloggad</a> för att skriva en kommentar."
+
+#: AL1/functions.php:731
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Inloggad som <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Logga ut från detta konto\"> Logga ut? </a>"
+
+#: AL1/comments.php:11
+msgid "Leave a reply"
+msgstr "Lämna ett svar"
+
+#: AL1/comments.php:11
+msgid "1 Reply"
+msgstr "1 Svar"
+
+#: AL1/comments.php:11
+msgid "% Replies"
+msgstr "% Svar"
+
+#: AL1/comments.php:18
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Singular: En tanke på &ldquo;%2$s&rdquo;"
+msgstr[1] "Plural: %1$s tankar om &ldquo;%2$s&rdquo;"
+
+#: AL1/comments.php:24
+msgid "Comment navigation"
+msgstr "Kommentar navigation"
+
+#: AL1/comments.php:26
+msgid "&larr; Older Comments"
+msgstr "&larr; Äldre kommentarer"
+
+#: AL1/comments.php:27
+msgid "Newer Comments &rarr;"
+msgstr "Nyare kommentarer &rarr;"
+
+#: AL1/comments.php:29
+msgid "Comments are closed."
+msgstr "Kommentarer är stängda."
+
+#: AL1/footer.php:7 AL3/footer.php:7
+msgid "Our Preferred Partners:"
+msgstr "Våra föredragna partners:"
+
+#: AL1/footer.php:41 AL2/footer.php:28 AL3/footer.php:37
+msgid "Copyright"
+msgstr "Upphovsrätt"
+
+#: AL1/footer.php:41 AL2/footer.php:28 AL3/footer.php:37
+msgid "Powered By"
+msgstr "Drivs av"
+
+#: AL1/functions.php:124 AL1/home.php:87 AL3/home.php:77
+msgid "Best sellers"
+msgstr "Bästsäljare"
+
+#: AL1/functions.php:128 AL1/home.php:84 AL2/templates/product-latest.php:1
+#: AL3/home.php:76
+msgid "Latest"
+msgstr "Senaste"
+
+#: AL1/404.php:1
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Det ser ut som ingenting hittades på den här platsen. Kanske prova en sökning?"
+
+#: AL1/404.php:1
+msgid "Search"
+msgstr "Sök"
+
+#: AL1/archive.php:1 AL2/archive.php:3
+msgid "Daily Archives: %s"
+msgstr "Dagliga arkiv: %s"
+
+#: AL1/archive.php:1 AL2/archive.php:3
+msgid "Monthly Archives: %s"
+msgstr "Månadsarkiv: %s"
+
+#: AL1/archive.php:1 AL2/archive.php:3
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: AL1/archive.php:1 AL2/archive.php:3
+msgid "Yearly Archives: %s"
+msgstr "Årliga arkiv: %s"
+
+#: AL1/archive.php:1 AL2/archive.php:3
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: AL1/archive.php:1 AL2/archive.php:3
+msgid "Archives"
+msgstr "Arkiv"
+
+#: AL1/author.php:1 AL1/functions.php:376 AL2/author.php:1
+msgid "All posts by %s"
+msgstr "Alla inlägg av %s"

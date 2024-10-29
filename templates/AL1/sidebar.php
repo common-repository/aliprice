@@ -1,0 +1,1 @@
+<?php /** * Created by SSDMAThemes. * User: Dmitry Nizovsky * Date: 13.01.15 * Time: 15:56 */ ?><?php if(is_active_sidebar('sidebar')): ?><aside><?php dynamic_sidebar( 'sidebar' ); ?></aside><?php endif; ?>

@@ -1,0 +1,1401 @@
+# Translation of Theme AL1, AL2, AL3 in Spanish (Spain)
+# This file is distributed under the same license as the Theme AL1, AL2, AL3 package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-07-29 13:18:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1000\n"
+"Project-Id-Version: Theme AL1, AL2, AL3\n"
+
+#: AL3/libs/customization/class.CZ.Settings.php:437
+msgid "Categories tab 5"
+msgstr "Pestaña Categorías 5"
+
+#: AL1/libs/customization/class.CZ.AdminTpl.php:423
+#: AL2/libs/customization/class.CZ.AdminTpl.php:423
+#: AL3/libs/customization/class.CZ.AdminTpl.php:423
+msgid "size:"
+msgstr "tamaño:"
+
+#: AL1/libs/customization/class.CZ.AdminTpl.php:429
+#: AL2/libs/customization/class.CZ.AdminTpl.php:429
+#: AL3/libs/customization/class.CZ.AdminTpl.php:429
+msgid "Upload"
+msgstr "Subir"
+
+#: AL1/libs/customization/class.CZ.AdminTpl.php:814
+#: AL2/libs/customization/class.CZ.AdminTpl.php:814
+#: AL3/libs/customization/class.CZ.AdminTpl.php:814
+msgid "Save Settings"
+msgstr "Guardar cambios"
+
+#: AL1/libs/customization/class.CZ.AdminTpl.php:815
+#: AL2/libs/customization/class.CZ.AdminTpl.php:815
+#: AL3/libs/customization/class.CZ.AdminTpl.php:815
+msgid "Default"
+msgstr "Original "
+
+#: AL1/libs/customization/class.CZ.AdminTpl.php:871
+#: AL2/libs/customization/class.CZ.AdminTpl.php:871
+#: AL3/libs/customization/class.CZ.AdminTpl.php:871
+msgid "The сhanges have been saved"
+msgstr "Los cambios han sido guardados "
+
+#: AL1/libs/customization/class.CZ.AdminTpl.php:873
+#: AL2/libs/customization/class.CZ.AdminTpl.php:873
+#: AL3/libs/customization/class.CZ.AdminTpl.php:873
+msgid "No changes have been made"
+msgstr "No se ha realizado ningún cambio "
+
+#: AL1/libs/customization/class.CZ.Settings.php:26
+#: AL2/libs/customization/class.CZ.Settings.php:26
+#: AL3/libs/customization/class.CZ.Settings.php:26
+msgid "General"
+msgstr "General"
+
+#: AL1/libs/customization/class.CZ.Settings.php:27
+#: AL2/libs/customization/class.CZ.Settings.php:27
+#: AL3/libs/customization/class.CZ.Settings.php:27
+msgid "Some basic configuration settings."
+msgstr "Algunos cambios básicos de configuración."
+
+#: AL1/libs/customization/class.CZ.Settings.php:34
+#: AL2/libs/customization/class.CZ.Settings.php:34
+#: AL3/libs/customization/class.CZ.Settings.php:34
+msgid "Texts"
+msgstr "Textos"
+
+#: AL1/libs/customization/class.CZ.Settings.php:35
+#: AL2/libs/customization/class.CZ.Settings.php:35
+#: AL3/libs/customization/class.CZ.Settings.php:35
+msgid "Use this section to add and edit texts."
+msgstr "Use esta sección para añadir y editar textos. "
+
+#: AL1/libs/customization/class.CZ.Settings.php:41
+#: AL2/libs/customization/class.CZ.Settings.php:41
+#: AL3/libs/customization/class.CZ.Settings.php:41
+msgid "Colors"
+msgstr "Colores"
+
+#: AL1/libs/customization/class.CZ.Settings.php:42
+#: AL2/libs/customization/class.CZ.Settings.php:42
+#: AL3/libs/customization/class.CZ.Settings.php:42
+msgid "Use this section to edit colors."
+msgstr "Use esta sección para editar los colores."
+
+#: AL1/libs/customization/class.CZ.Settings.php:48
+#: AL2/libs/customization/class.CZ.Settings.php:48
+#: AL3/libs/customization/class.CZ.Settings.php:48
+msgid "Social Media"
+msgstr "Redes sociales "
+
+#: AL1/libs/customization/class.CZ.Settings.php:49
+#: AL2/libs/customization/class.CZ.Settings.php:49
+#: AL3/libs/customization/class.CZ.Settings.php:49
+msgid "Social media pages integration."
+msgstr "Integración de páginas con redes sociales."
+
+#: AL1/libs/customization/class.CZ.Settings.php:55
+#: AL2/libs/customization/class.CZ.Settings.php:55
+#: AL3/libs/customization/class.CZ.Settings.php:55
+msgid "Subcribe Form"
+msgstr "Formulario de suscripción"
+
+#: AL1/libs/customization/class.CZ.Settings.php:56
+#: AL2/libs/customization/class.CZ.Settings.php:56
+#: AL3/libs/customization/class.CZ.Settings.php:56
+msgid "Subscription form settings for collecting users’ emails."
+msgstr "Opciones de formulario de suscripción para captar mails de potenciales clientes"
+
+#: AL1/libs/customization/class.CZ.Settings.php:63
+#: AL2/libs/customization/class.CZ.Settings.php:63
+#: AL3/libs/customization/class.CZ.Settings.php:63
+msgid "SEO meta data settings."
+msgstr "Opciones de SEO META DATA"
+
+#: AL1/libs/customization/class.CZ.Settings.php:70
+#: AL2/libs/customization/class.CZ.Settings.php:70
+#: AL3/libs/customization/class.CZ.Settings.php:70
+msgid "Navigation settings block."
+msgstr "Opciones de bloques de navegación."
+
+#: AL1/libs/customization/class.CZ.Settings.php:89
+#: AL1/libs/customization/class.CZ.Settings.php:96
+#: AL2/libs/customization/class.CZ.Settings.php:89
+#: AL2/libs/customization/class.CZ.Settings.php:96
+#: AL3/libs/customization/class.CZ.Settings.php:89
+#: AL3/libs/customization/class.CZ.Settings.php:96
+msgid "Font URL (Global)"
+msgstr "Fuente URL (Global)"
+
+#: AL1/libs/customization/class.CZ.Settings.php:92
+#: AL1/libs/customization/class.CZ.Settings.php:99
+#: AL2/libs/customization/class.CZ.Settings.php:92
+#: AL2/libs/customization/class.CZ.Settings.php:99
+#: AL3/libs/customization/class.CZ.Settings.php:92
+#: AL3/libs/customization/class.CZ.Settings.php:99
+msgid "Font name: (Global)"
+msgstr "Fuente (Global)"
+
+#: AL1/libs/customization/class.CZ.Settings.php:107
+#: AL2/libs/customization/class.CZ.Settings.php:107
+#: AL3/libs/customization/class.CZ.Settings.php:107
+msgid "Analytics Tracking code"
+msgstr "Código Analytics Tracking"
+
+#: AL1/libs/customization/class.CZ.Settings.php:142
+#: AL2/libs/customization/class.CZ.Settings.php:142
+#: AL3/libs/customization/class.CZ.Settings.php:142
+msgid "Slider image 1"
+msgstr "Imagen Slider 1"
+
+#: AL1/libs/customization/class.CZ.Settings.php:264
+#: AL2/libs/customization/class.CZ.Settings.php:258
+#: AL3/libs/customization/class.CZ.Settings.php:266
+msgid "Header(slider) text button 2 Hover"
+msgstr "Texto botón Slider de cabecera 2 (activado)"
+
+#: AL1/libs/customization/class.CZ.Settings.php:274
+#: AL2/libs/customization/class.CZ.Settings.php:268
+#: AL3/libs/customization/class.CZ.Settings.php:276
+msgid "Header(slider) text button 3 Hover"
+msgstr "Texto botón Slider de cabecera 3 (activado)"
+
+#: AL1/libs/customization/class.CZ.Settings.php:309
+#: AL2/libs/customization/class.CZ.Settings.php:303
+#: AL3/libs/customization/class.CZ.Settings.php:311
+msgid "G+ (url)"
+msgstr "G+ (url)"
+
+#: AL1/libs/customization/class.CZ.Settings.php:335
+#: AL2/libs/customization/class.CZ.Settings.php:329
+#: AL3/libs/customization/class.CZ.Settings.php:337
+msgid "Subscribe Form"
+msgstr "Formulario de sucripción"
+
+#: AL1/libs/customization/class.CZ.Settings.php:417
+#: AL2/libs/customization/class.CZ.Settings.php:411
+#: AL3/libs/customization/class.CZ.Settings.php:419
+msgid "Categories tab 1"
+msgstr "Pestaña Categorías 1"
+
+#: AL1/libs/customization/class.CZ.Settings.php:421
+#: AL2/libs/customization/class.CZ.Settings.php:415
+#: AL3/libs/customization/class.CZ.Settings.php:423
+msgid "Categories tab 2"
+msgstr "Pestaña Categorías 2"
+
+#: AL1/libs/customization/class.CZ.Settings.php:427
+#: AL3/libs/customization/class.CZ.Settings.php:429
+msgid "Categories tab 3"
+msgstr "Pestaña Categorías 3"
+
+#: AL1/libs/customization/class.CZ.Settings.php:431
+#: AL3/libs/customization/class.CZ.Settings.php:433
+msgid "Categories tab 4"
+msgstr "Pestaña categorías 4"
+
+#: AL1/libs/customization/menu.php:10 AL1/libs/customization/menu.php:11
+#: AL2/libs/customization/menu.php:10 AL2/libs/customization/menu.php:11
+#: AL3/libs/customization/menu.php:10 AL3/libs/customization/menu.php:11
+msgid "Customization"
+msgstr "Personalización"
+
+#: AL2/libs/customization/class.CZ.Settings.php:159
+msgid "Banner 1"
+msgstr "Banner 1"
+
+#: AL2/libs/customization/class.CZ.Settings.php:163
+msgid "Banner 2"
+msgstr "Banner 2"
+
+#: AL3/templates/about-theme.php:77
+msgid "AliThree Theme is bundled with all necessary features. Some highlights are:"
+msgstr "AliThree está repleto de impresionantes herramientas. A destacar:"
+
+#: AL2/single-products.php:126
+msgid "Sale price"
+msgstr "Precio de venta"
+
+#: AL2/customize/banners.php:12
+msgid "Banners"
+msgstr "Banners"
+
+#: AL2/customize/banners.php:24 AL2/customize/banners.php:38
+msgid "Banner"
+msgstr "Banner"
+
+#: AL1/libs/customization/class.CZ.Settings.php:281 AL2/customize/colors.php:49
+#: AL2/libs/customization/class.CZ.Settings.php:275
+#: AL3/libs/customization/class.CZ.Settings.php:283
+msgid "Header text button"
+msgstr "Texto botón de cabecera"
+
+#: AL1/libs/customization/class.CZ.Settings.php:284 AL2/customize/colors.php:61
+#: AL2/libs/customization/class.CZ.Settings.php:278
+#: AL3/libs/customization/class.CZ.Settings.php:286
+msgid "Header text button(hover)"
+msgstr "Texto botón de cabecera (activado)"
+
+#: AL1/libs/customization/class.CZ.Settings.php:287 AL2/customize/colors.php:74
+#: AL2/libs/customization/class.CZ.Settings.php:281
+#: AL3/libs/customization/class.CZ.Settings.php:289
+msgid "Header line"
+msgstr "Linea de cabecera"
+
+#: AL1/libs/customization/class.CZ.Settings.php:366 AL2/customize/text.php:103
+#: AL2/libs/customization/class.CZ.Settings.php:360 AL3/customize/text.php:103
+#: AL3/libs/customization/class.CZ.Settings.php:368
+msgid "Seo text header"
+msgstr "Texto SEO cabecera"
+
+#: AL1/libs/customization/class.CZ.Settings.php:370 AL2/customize/text.php:116
+#: AL2/libs/customization/class.CZ.Settings.php:364 AL3/customize/text.php:116
+#: AL3/libs/customization/class.CZ.Settings.php:372
+msgid "Seo text description"
+msgstr "Texto descripción SEO"
+
+#: AL2/customize/text.php:168 AL3/customize/text.php:168
+msgid "\"Order Now\" button text"
+msgstr "Texto botón \"Comprar ahora\" "
+
+#: AL2/templates/about-theme.php:62
+msgid "AliTwo is a WordPress theme created for building AliExpress affiliate websites based on AliPlugin. The Theme has a clean, completely responsive design and created with most modern technologies. We hope you will enjoy it and have a good time developing your affiliate sites and earning with AliExpress."
+msgstr "AliTwo es un tema de WordPress creado para la construcción de sitios web afiliados AliExpress basado en AliPlugin. El tema tiene un diseño limpio y completamente sensible y creado con la mayoría de las tecnologías modernas. Esperamos que lo disfruten y tengan tiempo para desarrollarlo y ganen mucho dinero como afiliados de AliExpress."
+
+#: AL2/templates/about-theme.php:77
+msgid "AliTwo Theme is bundled with all necessary features. Some highlights are:"
+msgstr "El tema AliTwo está repleto de todas las herramientas necesarias. A destacar:"
+
+#: AL2/templates/products-special.php:8
+msgid "Special"
+msgstr "Especial"
+
+#: AL2/widgets/aliproducts/Ali_Products.php:14
+msgid "Output portable products"
+msgstr "Productos portátiles de salida"
+
+#: AL2/widgets/aliproducts/form.php:2 AL2/widgets/g-posts/form.php:2
+msgid "Title"
+msgstr "Título"
+
+#: AL2/widgets/aliproducts/form.php:9 AL2/widgets/g-posts/form.php:9
+msgid "Auto title: "
+msgstr "Auto título:"
+
+#: AL2/widgets/aliproducts/form.php:22 AL2/widgets/g-posts/form.php:22
+msgid "Order: "
+msgstr "Pedido:"
+
+#: AL2/widgets/aliproducts/form.php:32 AL2/widgets/g-posts/form.php:32
+msgid "Count:"
+msgstr "Total:"
+
+#: AL2/widgets/aliproducts/form.php:40 AL2/widgets/g-posts/form.php:40
+msgid "Category: "
+msgstr "Categoría:"
+
+#: AL2/widgets/g-posts/G_Posts.php:16
+msgid "Output posts"
+msgstr "Mensajes salientes"
+
+#: AL3/customize/images.php:20 AL3/libs/customization/class.CZ.Settings.php:159
+msgid "Before Footer"
+msgstr "Antes del pié de página"
+
+#: AL3/templates/about-theme.php:62
+msgid "AliThree is a WordPress theme created for building AliExpress affiliate websites based on AliPlugin. The Theme has a clean, completely responsive design and created with most modern technologies. We hope you will enjoy it and have a good time developing your affiliate sites and earning with AliExpress."
+msgstr "AliThree es un tema de WordPress creado para la construcción de sitios web afiliados AliExpress basado en AliPlugin. El tema tiene un diseño limpio y completamente sensible y creado con la mayoría de las tecnologías modernas. Esperamos que lo disfruten y ganen mucho dinero con el sistema de afiliados de Aliexpress."
+
+#: AL1/customize/subscription.php:17
+msgid "Insert the code from AWeber, MailChimp, etc."
+msgstr "Insertar código AWeber, MailChimp, etc."
+
+#: AL1/footer.php:33 AL1/customize/subscription.php:5 AL2/footer.php:22
+#: AL3/footer.php:31
+msgid "Subscription"
+msgstr "Suscripción"
+
+#: AL1/customize/images.php:74 AL1/libs/customization/class.CZ.Settings.php:147
+#: AL2/customize/images.php:74 AL2/libs/customization/class.CZ.Settings.php:147
+#: AL3/customize/images.php:31 AL3/libs/customization/class.CZ.Settings.php:147
+msgid "Slider image 2"
+msgstr "Slider image 2"
+
+#: AL1/customize/images.php:85 AL1/libs/customization/class.CZ.Settings.php:152
+#: AL2/customize/images.php:85 AL2/libs/customization/class.CZ.Settings.php:152
+#: AL3/customize/images.php:42 AL3/libs/customization/class.CZ.Settings.php:152
+msgid "Slider image 3"
+msgstr "Slider image 3"
+
+#: AL1/single-products.php:68 AL2/single-products.php:71
+#: AL3/single-products.php:68
+msgid "Availability: in stock"
+msgstr "Disponibilidad: en stock"
+
+#: AL1/single-products.php:69 AL2/single-products.php:72
+#: AL3/single-products.php:69
+msgid "Availability: out of stock"
+msgstr "Disponibilidad: fuera de stock"
+
+#: AL1/customize/text.php:178 AL1/libs/customization/class.CZ.Settings.php:219
+#: AL2/customize/text.php:192 AL2/libs/customization/class.CZ.Settings.php:232
+#: AL3/customize/text.php:192 AL3/libs/customization/class.CZ.Settings.php:230
+msgid "\"Powered by\" text"
+msgstr "Texto \"Powered by\""
+
+#: AL1/single-products.php:103 AL2/single-products.php:103
+#: AL3/single-products.php:103
+msgid "TODAY'S DEAL"
+msgstr "OFERTA DEL DÍA"
+
+#: AL1/single-products.php:106 AL2/single-products.php:106
+#: AL3/single-products.php:106
+msgid "Ends in"
+msgstr "Termina en"
+
+#: AL1/single-products.php:110 AL2/single-products.php:110
+#: AL3/single-products.php:110
+msgid "Days Left"
+msgstr "Días restantes "
+
+#: AL1/single-products.php:127 AL1/single-products.php:466
+#: AL2/single-products.php:139 AL2/single-products.php:433
+#: AL3/single-products.php:127 AL3/single-products.php:466
+msgid "Sale Price"
+msgstr "Precio de venta "
+
+#: AL1/single-products.php:167 AL1/single-products.php:489
+#: AL2/single-products.php:161 AL2/single-products.php:456
+#: AL3/single-products.php:167 AL3/single-products.php:489
+msgid "or"
+msgstr "o"
+
+#: AL1/customize/social.php:92 AL1/libs/customization/class.CZ.Settings.php:320
+#: AL2/libs/customization/class.CZ.Settings.php:314
+#: AL3/libs/customization/class.CZ.Settings.php:322
+msgid "VK (url)"
+msgstr "VK (url)"
+
+#: AL1/customize/text.php:64 AL1/libs/customization/class.CZ.Settings.php:187
+#: AL2/customize/text.php:50 AL2/libs/customization/class.CZ.Settings.php:200
+#: AL3/customize/text.php:50 AL3/libs/customization/class.CZ.Settings.php:198
+msgid "Text header 2"
+msgstr "Texto de cabecera 2"
+
+#: AL1/customize/text.php:76 AL1/libs/customization/class.CZ.Settings.php:190
+#: AL2/customize/text.php:62 AL2/libs/customization/class.CZ.Settings.php:203
+#: AL3/customize/text.php:62 AL3/libs/customization/class.CZ.Settings.php:201
+msgid "Text header 3"
+msgstr "Texto de cabecera 3"
+
+#: AL1/customize/text.php:128 AL1/libs/customization/class.CZ.Settings.php:209
+#: AL2/customize/text.php:142 AL2/libs/customization/class.CZ.Settings.php:222
+#: AL3/customize/text.php:142 AL3/libs/customization/class.CZ.Settings.php:220
+msgid "Catalogue text 2"
+msgstr "Texto catálogo 2"
+
+#: AL1/customize/text.php:140 AL1/libs/customization/class.CZ.Settings.php:212
+#: AL2/customize/text.php:154 AL2/libs/customization/class.CZ.Settings.php:225
+#: AL3/customize/text.php:154 AL3/libs/customization/class.CZ.Settings.php:223
+msgid "Catalogue text 3"
+msgstr "Texto catálogo 3"
+
+#: AL1/customize/text.php:154 AL1/libs/customization/class.CZ.Settings.php:166
+#: AL2/libs/customization/class.CZ.Settings.php:179
+#: AL3/libs/customization/class.CZ.Settings.php:177
+msgid "\"Order now\" button text"
+msgstr "Texto botón \"Comprar\" "
+
+#: AL1/single-products.php:503 AL2/single-products.php:468
+#: AL3/single-products.php:501
+msgid "Do you know that you can <span>save up to 90%</span> on your<br> online shopping, buying directly from manufacturers?"
+msgstr "Sabía que puede <span>ahorrar hasta el 90%</span> en su<br> compra online, comprando directamente a fabricantes?"
+
+#: AL1/single-products.php:505 AL2/single-products.php:469
+#: AL3/single-products.php:503
+msgid "And it is very easy:"
+msgstr "Y es muy fácil:"
+
+#: AL1/single-products.php:507 AL2/single-products.php:471
+#: AL3/single-products.php:505
+msgid "Go to"
+msgstr "Ir a"
+
+#: AL1/single-products.php:508 AL2/single-products.php:471
+#: AL3/single-products.php:506
+msgid "and enter the wanted item into search field."
+msgstr "y introduzca el producto que desea dentro del campo de búsqueda."
+
+#: AL1/single-products.php:509 AL2/single-products.php:472
+#: AL3/single-products.php:507
+msgid "Having made your choice, click \"Contact supplier\" button on the right"
+msgstr "Una vez hecha si elección, haga click en el botón de la drecha \"Contactar proveedor\""
+
+#: AL1/single-products.php:510 AL2/single-products.php:473
+#: AL3/single-products.php:508
+msgid "On the next page enter your request and click \"Send\" button."
+msgstr "En la siguiente página intoduzca su pedido y pulse el botón \"Enviar\""
+
+#: AL1/single-products.php:511 AL2/single-products.php:474
+#: AL3/single-products.php:509
+msgid "Upon clicking you will be asked to get registered. Do it and wait for the reply."
+msgstr "Una vez pulsado deberá registrarse. Hágalo y espere la respuesta."
+
+#: AL1/single-products.php:513 AL2/single-products.php:476
+#: AL3/single-products.php:511
+msgid "ARE YOU READY TO SAVE UP TO 90%?"
+msgstr "ESTA PREPARADO PARA AHORRAR HASTA UN 90%?"
+
+#: AL1/single-products.php:515 AL2/single-products.php:477
+#: AL3/single-products.php:513
+msgid "GO TO ALIBABA"
+msgstr "IR A ALIBABA"
+
+#: AL1/customize/colors.php:100
+#: AL1/libs/customization/class.CZ.Settings.php:261 AL2/customize/colors.php:87
+#: AL2/libs/customization/class.CZ.Settings.php:255 AL3/customize/colors.php:48
+#: AL3/libs/customization/class.CZ.Settings.php:263
+msgid "Header(slider) text button 2"
+msgstr "Texto del botón de cabecera slider 2"
+
+#: AL1/customize/colors.php:112 AL2/customize/colors.php:99
+#: AL3/customize/colors.php:60
+msgid "Header(slider) text button 2(hover)"
+msgstr "Texto del botón de cabecera slider 2 (arriba)"
+
+#: AL1/customize/colors.php:124
+#: AL1/libs/customization/class.CZ.Settings.php:271
+#: AL2/customize/colors.php:111
+#: AL2/libs/customization/class.CZ.Settings.php:265 AL3/customize/colors.php:72
+#: AL3/libs/customization/class.CZ.Settings.php:273
+msgid "Header(slider) text button 3"
+msgstr "Texto del botón de cabecera slider 3"
+
+#: AL1/customize/colors.php:136 AL2/customize/colors.php:123
+#: AL3/customize/colors.php:84
+msgid "Header(slider) text button 3(hover)"
+msgstr "Texto del botón de cabecera slider 3 (arriba)"
+
+#: AL1/single-products.php:157 AL2/single-products.php:150
+#: AL3/single-products.php:157
+msgid "Order Now"
+msgstr "Comprar "
+
+#: AL1/single-products.php:169 AL1/single-products.php:491
+#: AL2/single-products.php:165 AL2/single-products.php:458
+#: AL3/single-products.php:169 AL3/single-products.php:491
+msgid "Learn How to Buy it Even Cheaper!"
+msgstr "Aprenda cómo comprar incluso más barato!"
+
+#: AL1/templates/content-none.php:7
+msgid "It seems we can't find what you're looking for. Perhaps searching can help."
+msgstr "Parece que no podemos encontrar lo que busca. Quizás buscando de nuevo..."
+
+#: AL1/templates/about-theme.php:60 AL2/templates/about-theme.php:66
+#: AL3/templates/about-theme.php:66
+msgid "AliOne WordPress theme works well on many different kinds of screens with resolutions ranging from PC desktops to smart phones."
+msgstr "El tema de WordPress AliOne trabaja a la perfección con diferentes tipos de pantallas y resoluciones desde PC hasta tablets y móviles."
+
+#: AL1/customize/seo.php:51 AL1/libs/customization/class.CZ.Settings.php:359
+#: AL2/libs/customization/class.CZ.Settings.php:353
+#: AL3/libs/customization/class.CZ.Settings.php:361
+msgid "SEO Article on home page (before footer)"
+msgstr "SEO en página principal (antes del pié de página)"
+
+#: AL1/customize/text.php:166 AL1/libs/customization/class.CZ.Settings.php:169
+#: AL2/customize/text.php:180 AL2/libs/customization/class.CZ.Settings.php:182
+#: AL3/customize/text.php:180 AL3/libs/customization/class.CZ.Settings.php:180
+msgid "\"from Aliexpress\" text"
+msgstr "Texto \"from AliExpress\""
+
+#: AL1/single-products.php:338 AL2/single-products.php:318
+#: AL3/single-products.php:338
+msgid "1 Star"
+msgstr "1 estrella"
+
+#: AL1/customize/images.php:63 AL1/libs/customization/class.CZ.Settings.php:134
+#: AL2/customize/images.php:63 AL2/libs/customization/class.CZ.Settings.php:134
+#: AL3/libs/customization/class.CZ.Settings.php:134
+msgid "Free Shipping image"
+msgstr "Imagen Envío gratuito "
+
+#: AL1/customize/social.php:79 AL1/libs/customization/class.CZ.Settings.php:317
+#: AL2/libs/customization/class.CZ.Settings.php:311
+#: AL3/libs/customization/class.CZ.Settings.php:319
+msgid "Pinterest (url)"
+msgstr "Pinterest (url)"
+
+#: AL1/customize/text.php:116 AL1/libs/customization/class.CZ.Settings.php:206
+#: AL2/customize/text.php:130 AL2/libs/customization/class.CZ.Settings.php:219
+#: AL3/customize/text.php:130 AL3/libs/customization/class.CZ.Settings.php:217
+msgid "Catalogue text"
+msgstr "Texto Catálogo "
+
+#: AL1/single-products.php:379 AL2/single-products.php:360
+#: AL3/single-products.php:379
+msgid "No Feedback Score"
+msgstr "No existe puntuación "
+
+#: AL1/single-products.php:357 AL2/single-products.php:337
+#: AL3/single-products.php:357
+msgid "Feedback"
+msgstr "Opinión"
+
+#: AL1/single-products.php:271 AL2/single-products.php:248
+#: AL3/single-products.php:271
+msgid "Average Star Rating:"
+msgstr "Puntuación media:"
+
+#: AL1/single-products.php:276 AL2/single-products.php:253
+#: AL3/single-products.php:276
+msgid "out of"
+msgstr "fuera de"
+
+#: AL1/single-products.php:283 AL2/single-products.php:260
+#: AL3/single-products.php:283
+msgid "Feedback Rating for This Product"
+msgstr "Puntuación media de este producto "
+
+#: AL1/single-products.php:286 AL2/single-products.php:263
+#: AL3/single-products.php:286
+msgid "Positive"
+msgstr "Positivo"
+
+#: AL1/single-products.php:288 AL2/single-products.php:265
+#: AL3/single-products.php:288
+msgid "5 Stars"
+msgstr "5 estrellas"
+
+#: AL1/single-products.php:300 AL2/single-products.php:277
+#: AL3/single-products.php:300
+msgid "4 Stars"
+msgstr "4 estrellas"
+
+#: AL1/single-products.php:311 AL1/single-products.php:324
+#: AL2/single-products.php:290 AL2/single-products.php:304
+#: AL3/single-products.php:311 AL3/single-products.php:324
+msgid "Neutral"
+msgstr "Neutral"
+
+#: AL1/single-products.php:313 AL2/single-products.php:292
+#: AL3/single-products.php:313
+msgid "3 Stars"
+msgstr "3 estrellas "
+
+#: AL1/single-products.php:326 AL2/single-products.php:306
+#: AL3/single-products.php:326
+msgid "2 Stars"
+msgstr "2 estrellas "
+
+#: AL1/single-products.php:356 AL2/single-products.php:336
+#: AL3/single-products.php:356
+msgid "Rating"
+msgstr "Puntuación "
+
+#: AL1/customize/social.php:66 AL1/libs/customization/class.CZ.Settings.php:312
+#: AL2/libs/customization/class.CZ.Settings.php:306
+#: AL3/libs/customization/class.CZ.Settings.php:314
+msgid "Youtube (url)"
+msgstr "Youtube (url)"
+
+#: AL1/functions.php:1159
+msgid "piece"
+msgstr "unidad"
+
+#: AL1/functions.php:1160
+msgid "lot"
+msgstr "lote"
+
+#: AL3/templates/products-cat-5.php:9
+msgid "Featured"
+msgstr "Destacado"
+
+#: AL1/home.php:81 AL3/home.php:75
+msgid "Specials"
+msgstr "Especiales"
+
+#: AL1/templates/about-theme.php:74 AL2/templates/about-theme.php:80
+#: AL3/templates/about-theme.php:80
+msgid "Clean Code"
+msgstr "Limpiar Código"
+
+#: AL1/templates/about-theme.php:75 AL2/templates/about-theme.php:81
+#: AL3/templates/about-theme.php:81
+msgid "Translation Ready"
+msgstr "Traducción Lista"
+
+#: AL1/templates/about-theme.php:76 AL2/templates/about-theme.php:82
+#: AL3/templates/about-theme.php:82
+msgid "Easy Theme Options"
+msgstr "Tema Opciones Fáciles"
+
+#: AL1/templates/about-theme.php:77 AL2/templates/about-theme.php:83
+#: AL3/templates/about-theme.php:83
+msgid "Social Media Links"
+msgstr "Enlaces a Social Media"
+
+#: AL1/templates/about-theme.php:78 AL2/templates/about-theme.php:84
+#: AL3/templates/about-theme.php:84
+msgid "HTML5 & CSS3"
+msgstr "HTML5 & CSS3"
+
+#: AL1/templates/about-theme.php:79 AL2/templates/about-theme.php:85
+#: AL3/templates/about-theme.php:85
+msgid "Cross Browser Compatible"
+msgstr "Compatible Cross Browser "
+
+#: AL1/templates/about-theme.php:80 AL2/templates/about-theme.php:86
+#: AL3/templates/about-theme.php:86
+msgid "Detailed Documentation"
+msgstr "Documentación Detallada"
+
+#: AL1/templates/about-theme.php:81 AL2/templates/about-theme.php:87
+#: AL3/templates/about-theme.php:87
+msgid "Regular Updates"
+msgstr "Actualizaciones Regulares"
+
+#: AL1/templates/about-theme.php:82 AL2/templates/about-theme.php:88
+#: AL3/templates/about-theme.php:88
+msgid "And much more"
+msgstr "Y mucho más"
+
+#: AL1/templates/about-theme.php:84 AL2/templates/about-theme.php:90
+#: AL3/templates/about-theme.php:90
+msgid "Theme Support"
+msgstr "Ayuda Tema"
+
+#: AL1/templates/about-theme.php:86 AL2/templates/about-theme.php:92
+#: AL3/templates/about-theme.php:92
+msgid "Using this Theme you receive regular updates and constant support. We will help you to set up the theme and guide you through any issues that may arise."
+msgstr "Usando este Tema recibirás actualizaciones periódicas y soporte constante. Te ayudaremos a configurar el tema y te guiaremos en cualquier problema que pueda surgir."
+
+#: AL1/customize/images.php:13 AL2/customize/images.php:13
+msgid "Logo & Favicon"
+msgstr "Logo & Favicon"
+
+#: AL1/customize/images.php:51 AL1/libs/customization/class.CZ.Settings.php:129
+#: AL2/customize/images.php:51 AL2/libs/customization/class.CZ.Settings.php:129
+#: AL3/libs/customization/class.CZ.Settings.php:129
+msgid "Favicon"
+msgstr "Favicon"
+
+#: AL1/customize/seo.php:11 AL1/libs/customization/class.CZ.Settings.php:62
+#: AL2/libs/customization/class.CZ.Settings.php:62
+#: AL3/libs/customization/class.CZ.Settings.php:62
+msgid "SEO"
+msgstr "SEO"
+
+#: AL1/customize/seo.php:24 AL1/libs/customization/class.CZ.Settings.php:349
+#: AL2/libs/customization/class.CZ.Settings.php:343
+#: AL3/libs/customization/class.CZ.Settings.php:351
+msgid "Keywords"
+msgstr "Palabras Clave"
+
+#: AL1/templates/about-theme.php:42 AL2/templates/about-theme.php:48
+#: AL3/templates/about-theme.php:48
+msgid "100% Clean HTML"
+msgstr "100% HTML Limpio"
+
+#: AL1/templates/about-theme.php:47 AL2/templates/about-theme.php:53
+#: AL3/templates/about-theme.php:53
+msgid "100% Valid CSS"
+msgstr "100% CSS Válido "
+
+#: AL1/templates/about-theme.php:52 AL2/templates/about-theme.php:58
+#: AL3/templates/about-theme.php:58
+msgid "WP validation score: 100 %"
+msgstr "WP puntuación de validación: 100 %"
+
+#: AL1/templates/about-theme.php:56
+msgid "AliOne is a WordPress theme created for building AliExpress affiliate websites based on AliPlugin. The Theme has a clean, completely responsive design and created with most modern technologies. We hope you will enjoy it and have a good time developing your affiliate sites and earning with AliExpress."
+msgstr "AliOne es un tema para WorPress creado para webs de Afiliados AliExpress que usan AliPlugin. El tema tiene un diseño limpio, completamente adaptable (responsive) con la mayoría de las tecnologías modernas. Esperamos te guste y te lo pases bien desarrollando tus sitios de afiliados ganando mucho dinero con AliExpress."
+
+#: AL1/templates/about-theme.php:58 AL2/templates/about-theme.php:64
+#: AL3/templates/about-theme.php:64
+msgid "Fully Responsive Layout"
+msgstr "Diseño Totalmente Adaptable (Responsive)"
+
+#: AL1/templates/about-theme.php:62 AL2/templates/about-theme.php:68
+#: AL3/templates/about-theme.php:68
+msgid "Elegant Clean Design"
+msgstr "Diseño Limpio y Elegante "
+
+#: AL1/templates/about-theme.php:64 AL2/templates/about-theme.php:70
+#: AL3/templates/about-theme.php:70
+msgid "Elegant and stylish minimalistic design of AliOne theme is created to meet all modern requirements and trends of successful online stores."
+msgstr "El estilo elegante y minimalista del tema AliOne ha sido creado en consonancia con todos los requerimientos modernos y tendencias de las tiendas online de más éxito."
+
+#: AL1/templates/about-theme.php:66 AL2/templates/about-theme.php:72
+#: AL3/templates/about-theme.php:72
+msgid "Easy to Customize"
+msgstr "Fácilmente Personabilizable"
+
+#: AL1/templates/about-theme.php:68 AL2/templates/about-theme.php:74
+#: AL3/templates/about-theme.php:74
+msgid "You can personalize your site with a custom logo, header, background, widgets, banners, social media links, etc. The theme includes a special customization menu for making any changes quick and easily."
+msgstr "Podrá personalizar su sitio con su logo personalizado, cabecera, fondo, widgets, banners, social media, enlaces, etc. El tema incluye un menú especial personalizado para realizar cualquier cambio de manera rápida y sencilla."
+
+#: AL1/templates/about-theme.php:70 AL2/templates/about-theme.php:76
+#: AL3/templates/about-theme.php:76
+msgid "Features"
+msgstr "Destacado"
+
+#: AL1/templates/about-theme.php:71
+msgid "AliOne Theme is bundled with all necessary features. Some highlights are:"
+msgstr "El tema AliOne está equipado con todas las herramientas necesarias. A destacar:"
+
+#: AL1/templates/about-theme.php:73 AL2/templates/about-theme.php:79
+#: AL3/templates/about-theme.php:79
+msgid "SEO Friendly"
+msgstr "SEO Amigable"
+
+#: AL1/templates/protection.php:1 AL2/templates/protection.php:1
+msgid "Refund or Keep items not as described"
+msgstr "Reintegro total si el producto no es como la descripción o bien parcial quedandose con el producto."
+
+#: AL1/templates/sort.php:4
+msgid "Sort by"
+msgstr "Ordenar por"
+
+#: AL1/templates/uploads.php:1
+msgid "Drop files here"
+msgstr "Arrastre aquí los archivos"
+
+#: AL1/templates/uploads.php:1
+msgctxt "Uploader: Drop files here - or - Select Files"
+msgid "or"
+msgstr "o"
+
+#: AL1/templates/uploads.php:1
+msgid "Select Files"
+msgstr "Seleccionar Archivos"
+
+#: AL1/walkers/wp-bootstrap-comments/wp_bootstrap_comments.php:70
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr "<cite class=\"fn\">%s</cite>"
+
+#: AL1/walkers/wp-bootstrap-comments/wp_bootstrap_comments.php:75
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: AL1/walkers/wp-bootstrap-comments/wp_bootstrap_comments.php:76
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: AL1/walkers/wp-bootstrap-comments/wp_bootstrap_comments.php:80
+msgid "Your comment is awaiting moderation."
+msgstr "Sus comentarios están en espera de aprobación"
+
+#: AL1/customize/social.php:24 AL1/libs/customization/class.CZ.Settings.php:302
+#: AL2/libs/customization/class.CZ.Settings.php:296
+#: AL3/libs/customization/class.CZ.Settings.php:304
+msgid "Facebook (url)"
+msgstr "Facebook (url)"
+
+#: AL1/customize/social.php:53
+msgid "Google Plus (url)"
+msgstr "Google Plus (url)"
+
+#: AL1/customize/social.php:40 AL1/libs/customization/class.CZ.Settings.php:305
+#: AL2/libs/customization/class.CZ.Settings.php:299
+#: AL3/libs/customization/class.CZ.Settings.php:307
+msgid "Twitter (url)"
+msgstr "Twitter (url)"
+
+#: AL1/customize/text.php:11 AL2/customize/text.php:11
+#: AL3/customize/text.php:11
+msgid "Text"
+msgstr "Texto"
+
+#: AL1/customize/text.php:24 AL1/libs/customization/class.CZ.Settings.php:175
+#: AL2/libs/customization/class.CZ.Settings.php:188
+#: AL3/libs/customization/class.CZ.Settings.php:186
+msgid "Text inline"
+msgstr "Texto en línea"
+
+#: AL1/customize/text.php:38 AL1/libs/customization/class.CZ.Settings.php:178
+#: AL2/customize/text.php:24 AL2/libs/customization/class.CZ.Settings.php:191
+#: AL3/customize/text.php:24 AL3/libs/customization/class.CZ.Settings.php:189
+msgid "Text top header"
+msgstr "Texto superior cabecera"
+
+#: AL1/customize/text.php:52 AL1/libs/customization/class.CZ.Settings.php:184
+#: AL2/customize/text.php:38 AL2/libs/customization/class.CZ.Settings.php:197
+#: AL3/customize/text.php:38 AL3/libs/customization/class.CZ.Settings.php:195
+msgid "Text header"
+msgstr "Texto de cabecera"
+
+#: AL1/customize/seo.php:37 AL1/customize/text.php:88
+#: AL1/customize/text.php:102 AL1/libs/customization/class.CZ.Settings.php:197
+#: AL1/libs/customization/class.CZ.Settings.php:200
+#: AL1/libs/customization/class.CZ.Settings.php:352 AL2/customize/text.php:74
+#: AL2/customize/text.php:88 AL2/libs/customization/class.CZ.Settings.php:210
+#: AL2/libs/customization/class.CZ.Settings.php:213
+#: AL2/libs/customization/class.CZ.Settings.php:346 AL3/customize/text.php:74
+#: AL3/customize/text.php:88 AL3/libs/customization/class.CZ.Settings.php:208
+#: AL3/libs/customization/class.CZ.Settings.php:211
+#: AL3/libs/customization/class.CZ.Settings.php:354
+msgid "Description"
+msgstr "Descripción"
+
+#: AL1/templates/about-theme.php:11 AL2/templates/about-theme.php:17
+#: AL3/templates/about-theme.php:17
+msgid "Enter copyright text"
+msgstr "Introduzca el texto de copyright"
+
+#: AL1/templates/content-audio.php:1 AL1/templates/content-gallery.php:1
+#: AL1/templates/content-image.php:1 AL1/templates/content-video.php:1
+#: AL1/templates/content.php:9
+msgid "has blogged"
+msgstr "ha blogueado"
+
+#: AL1/templates/content-audio.php:1 AL1/templates/content-gallery.php:1
+#: AL1/templates/content-image.php:1 AL1/templates/content-video.php:1
+#: AL1/templates/content.php:10
+msgid "posts"
+msgstr "posts"
+
+#: AL1/templates/content-none.php:3
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: AL1/templates/content-none.php:5
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Preparado para escribir su primer post? <a href=\"%1$s\">Comience aquí</a>."
+
+#: AL1/templates/content-none.php:6
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Disculpe, pero no se encontró nada con los términos descritos. Por favor inténtelo de nuevo con diferentes términos."
+
+#: AL1/templates/filter.php:3 AL2/templates/filter.php:1
+msgid "Sort by Price"
+msgstr "Ordenar por Precio"
+
+#: AL1/templates/filter.php:11 AL2/config/init.php:180
+#: AL2/templates/filter.php:1
+msgid "Categories"
+msgstr "Categorias"
+
+#: AL1/templates/filter.php:19 AL2/templates/filter.php:1
+msgid "Select all"
+msgstr "Seleccionar todo"
+
+#: AL1/templates/filter.php:22 AL2/templates/filter.php:1
+msgid "Unselect all"
+msgstr "Deseleccionar todo"
+
+#: AL1/templates/protection.php:1 AL2/templates/protection.php:1
+msgid "Full Refund if you don't receive your order"
+msgstr "Reembolso Completo si usted no recibe su pedido"
+
+#: AL1/customize/colors.php:23 AL1/libs/customization/class.CZ.Settings.php:231
+#: AL2/customize/colors.php:23 AL2/libs/customization/class.CZ.Settings.php:244
+#: AL3/customize/colors.php:23 AL3/libs/customization/class.CZ.Settings.php:242
+msgid "Color (Search, Catalog, Links, Tabs, Price)"
+msgstr "Color (Búsqueda, Catálogo, Enlace, Pestañas, Precio)"
+
+#: AL1/customize/colors.php:36 AL1/libs/customization/class.CZ.Settings.php:234
+#: AL2/customize/colors.php:36 AL2/libs/customization/class.CZ.Settings.php:247
+#: AL3/customize/colors.php:36 AL3/libs/customization/class.CZ.Settings.php:245
+msgid "Color (Search, Catalog, Links, Tabs, Price) Hover"
+msgstr "Color (Búsqueda, Catálogo, Enlaces, Pestañas, Precio) Flotante"
+
+#: AL1/customize/colors.php:49 AL1/libs/customization/class.CZ.Settings.php:241
+#: AL3/libs/customization/class.CZ.Settings.php:252
+msgid "Color (Menu)"
+msgstr "Color (Menu)"
+
+#: AL1/customize/colors.php:62 AL1/libs/customization/class.CZ.Settings.php:244
+#: AL3/libs/customization/class.CZ.Settings.php:255
+msgid "Color (Menu) Hover"
+msgstr "Color (Menu) Flotante"
+
+#: AL1/customize/colors.php:75 AL1/libs/customization/class.CZ.Settings.php:251
+msgid "Color (Menu) Border Right"
+msgstr "Color (Menu) Borde Derecho"
+
+#: AL1/customize/colors.php:88 AL1/libs/customization/class.CZ.Settings.php:254
+msgid "Color (Menu) Border Left"
+msgstr "Color (Menu) Borde Izquierdo"
+
+#: AL1/customize/fonts.php:11
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: AL1/customize/fonts.php:25
+msgid "Url for font (Global)"
+msgstr "Url para fuente (Global)"
+
+#: AL1/customize/fonts.php:39
+msgid "Name font (Global)"
+msgstr "Nombre de fuente (Global)"
+
+#: AL1/customize/fonts.php:53
+msgid "Url for font (Header)"
+msgstr "Url para fuente (Cabecera)"
+
+#: AL1/customize/fonts.php:67
+msgid "Name font (Header)"
+msgstr "Nombre de la fuente (Cabecera)"
+
+#: AL1/customize/images.php:25 AL1/libs/customization/class.CZ.Settings.php:115
+#: AL2/customize/images.php:25 AL2/libs/customization/class.CZ.Settings.php:115
+#: AL3/libs/customization/class.CZ.Settings.php:115
+msgid "Header"
+msgstr "Cabecera"
+
+#: AL1/customize/images.php:38 AL1/libs/customization/class.CZ.Settings.php:120
+#: AL2/customize/images.php:38 AL2/libs/customization/class.CZ.Settings.php:120
+#: AL3/libs/customization/class.CZ.Settings.php:120
+msgid "Footer"
+msgstr "Pié de página"
+
+#: AL1/customize/nav.php:20 AL1/libs/customization/class.CZ.Settings.php:69
+#: AL2/customize/nav.php:20 AL2/libs/customization/class.CZ.Settings.php:69
+#: AL3/libs/customization/class.CZ.Settings.php:69
+msgid "Navigation"
+msgstr "Navegación"
+
+#: AL1/customize/nav.php:33 AL1/libs/customization/class.CZ.Settings.php:390
+#: AL2/customize/nav.php:33 AL2/libs/customization/class.CZ.Settings.php:384
+#: AL3/libs/customization/class.CZ.Settings.php:392
+msgid "Header menu"
+msgstr "Menú Cabecera"
+
+#: AL1/customize/nav.php:48 AL1/libs/customization/class.CZ.Settings.php:394
+#: AL2/libs/customization/class.CZ.Settings.php:388
+#: AL3/libs/customization/class.CZ.Settings.php:396
+msgid "Main menu"
+msgstr "Menú principal"
+
+#: AL1/customize/nav.php:63 AL1/libs/customization/class.CZ.Settings.php:398
+#: AL2/customize/nav.php:48 AL2/libs/customization/class.CZ.Settings.php:392
+#: AL3/libs/customization/class.CZ.Settings.php:400
+msgid "Footer menu"
+msgstr "Menú pié de página"
+
+#: AL1/customize/products.php:36 AL1/customize/products.php:51
+#: AL1/customize/products.php:66 AL1/customize/products.php:81
+#: AL2/customize/products.php:36 AL2/customize/products.php:51
+#: AL3/customize/products.php:31
+msgid "Category"
+msgstr "Categoría"
+
+#: AL1/customize/social.php:11
+msgid "Social"
+msgstr "Social"
+
+#: AL1/single-products.php:401 AL1/single-products.php:407
+#: AL1/single-products.php:413 AL1/single-products.php:418
+#: AL2/single-products.php:382 AL2/single-products.php:387
+#: AL2/single-products.php:392 AL2/single-products.php:397
+#: AL3/single-products.php:401 AL3/single-products.php:407
+#: AL3/single-products.php:413 AL3/single-products.php:418
+msgid "days"
+msgstr "días"
+
+#: AL1/single-products.php:416 AL2/single-products.php:395
+#: AL3/single-products.php:416
+msgid "Post Air Mail"
+msgstr "Correo Aéreo"
+
+#: AL1/single-products.php:417 AL2/single-products.php:396
+#: AL3/single-products.php:417
+msgid "Free Shipping"
+msgstr "Gastos de Envío Gratis"
+
+#: AL1/single-products.php:427 AL2/single-products.php:406
+#: AL3/single-products.php:427
+msgid "Return Policy"
+msgstr "Política Devoluciones"
+
+#: AL1/single-products.php:428 AL2/single-products.php:407
+#: AL3/single-products.php:428
+msgid "If the product you receive is not as described or low quality, the seller promises that you may return it before order completion (when you click \"Confirm Order Received\" or exceed confirmation timeframe) and receive a full refund. The return shipping fee will be paid by you. Or, you can choose to keep the product and agree the refund amount directly with the seller."
+msgstr "Si el producto que recibe no es como lo descrito o es de calidad inferior, el vendedor se compromete a que pueda devolver el producto antes que se complete el pedido (cuando hace click sobre \"Confirmación de Pedido Recibido\" o excede del tiempo de confirmación) y le devolverán el pago. O bien puede quedarse con el producto y acordar directamente con el vendedor el total o parte de la devolución."
+
+#: AL1/single-products.php:429 AL2/single-products.php:408
+#: AL3/single-products.php:429
+msgid "N.B.: If the seller provides the \"Longer Protection\" service on this product, you may ask for refund up to 15 days after order completion."
+msgstr "Nota: Si el vendedor proporciona el servicio de \"Alargar la Protección\" sobre este producto, usted puede reclamar el reembolso hasta 15 días después de que finalice la orden de protección."
+
+#: AL1/single-products.php:433 AL2/single-products.php:412
+#: AL3/single-products.php:433
+msgid "Seller Service"
+msgstr "Servicio Vendedor"
+
+#: AL1/single-products.php:435 AL2/single-products.php:414
+#: AL3/single-products.php:435
+msgid "If you do not receive your purchase within 60 days, you can ask for a full refund before order completion (when you click \"Confirm Order Received\" or exceed confirmation timeframe). "
+msgstr "Si usted no recibe su compra en 60 días, usted puede pedir un reembolso total del pedido antes de que finalice la orden de finalización (cuando usted acepta \"Confirmación de Pedido Recibido\" o excede del tiempo de confirmación de la recepción de pedido)."
+
+#: AL1/config/config.php:26 AL3/config/config.php:27
+msgid "Smarter Shopping, Better Living!"
+msgstr "Compra inteligentemente, mejora tu vida!"
+
+#: AL1/config/config.php:27 AL2/config/config.php:30 AL3/config/config.php:28
+msgid "24/7 Customer Service (800) 927-7671"
+msgstr "24/7 Atención al Cliente (800) 927-7671"
+
+#: AL1/config/config.php:28 AL2/config/config.php:31 AL3/config/config.php:29
+msgid "Order anytime and always receive <b>FAST, FREE Shipping</b> on all orders!"
+msgstr "Compra <b>SEGURO y con garantía. Sin Costes de Envío</b> en muchos pedidos!"
+
+#: AL1/config/init.php:72 AL1/config/init.php:74 AL2/config/init.php:73
+#: AL2/config/init.php:75
+msgid "Blog"
+msgstr "Blog"
+
+#: AL1/config/init.php:79 AL1/config/init.php:81 AL1/config/init.php:104
+#: AL2/config/init.php:80 AL2/config/init.php:82 AL2/config/init.php:105
+msgid "Shipping & Delivery"
+msgstr "Envío & Entrega"
+
+#: AL1/config/init.php:85 AL1/config/init.php:87 AL1/config/init.php:105
+#: AL1/templates/protection.php:1 AL2/config/init.php:86 AL2/config/init.php:88
+#: AL2/config/init.php:106 AL2/templates/protection.php:1
+msgid "Buyer Protection"
+msgstr "Protección al Comprador"
+
+#: AL1/config/init.php:108 AL1/customize/products.php:23
+#: AL1/templates/filter.php:37 AL2/config/init.php:109
+#: AL2/customize/products.php:23 AL2/templates/filter.php:1
+msgid "Products"
+msgstr "Productos"
+
+#: AL1/config/init.php:151 AL2/config/init.php:152
+msgid "All categories"
+msgstr "Todas las categorías"
+
+#: AL1/customize/analyticstracking.php:11
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: AL1/customize/analyticstracking.php:23
+msgid "Tracking Script"
+msgstr "Tracking Script (script de seguimiento)"
+
+#: AL1/single-products.php:193 AL2/single-products.php:187
+#: AL3/single-products.php:193
+msgid "Guarantees: On-time Delivery 60 days"
+msgstr "Garantía: Entrega en menos de 60 días."
+
+#: AL1/single-products.php:201 AL3/single-products.php:201
+msgid "Sort By"
+msgstr "Ordenar por"
+
+#: AL1/single-products.php:205 AL3/single-products.php:205
+msgid "Top-rated Seller"
+msgstr "Vendedores Mejor Calificados"
+
+#: AL1/single-products.php:222 AL2/single-products.php:208
+#: AL3/single-products.php:222
+msgid "Share"
+msgstr "Compartir"
+
+#: AL1/single-products.php:226 AL1/single-products.php:450
+#: AL3/single-products.php:226 AL3/single-products.php:450
+msgid "Most Popular from Category"
+msgstr "Lo más Popular de la Categoría"
+
+#: AL1/single-products.php:235 AL2/single-products.php:219
+#: AL3/single-products.php:235
+msgid "Product Description"
+msgstr "Descripción del Producto"
+
+#: AL1/single-products.php:240 AL2/single-products.php:222
+#: AL3/single-products.php:240
+msgid "Reviews"
+msgstr "Revisiones"
+
+#: AL1/single-products.php:245 AL2/single-products.php:225
+#: AL3/single-products.php:245
+msgid "Shipping and payment"
+msgstr "Método de envío y pago"
+
+#: AL1/single-products.php:250 AL2/single-products.php:228
+#: AL3/single-products.php:250
+msgid "Seller Guarantees"
+msgstr "Garantía del Vendedor"
+
+#: AL1/single-products.php:391 AL2/single-products.php:373
+#: AL3/single-products.php:391
+msgid "Shipping Company"
+msgstr "Compañía de Envío"
+
+#: AL1/single-products.php:392 AL2/single-products.php:374
+#: AL3/single-products.php:392
+msgid "Shipping Cost"
+msgstr "Costes de Envío "
+
+#: AL1/single-products.php:393 AL2/single-products.php:375
+#: AL3/single-products.php:393
+msgid "Estimated Delivery Time"
+msgstr "Tiempo estimado de entrega"
+
+#: AL1/image.php:1
+msgid "Previous Image"
+msgstr "Imagen Anterior"
+
+#: AL1/image.php:1
+msgid "Next Image"
+msgstr "Imagen Siguiente "
+
+#: AL1/searchform.php:1
+msgid "Search for a product, category or brand"
+msgstr "Buscar un producto, categoría o marca"
+
+#: AL1/single-products.php:35 AL2/single-products.php:38
+#: AL3/single-products.php:35
+msgid "Image not available"
+msgstr "Imagen no disponible"
+
+#: AL1/single-products.php:40 AL2/single-products.php:43
+#: AL3/single-products.php:40
+msgid "Click to see details"
+msgstr "Click para ver detalles"
+
+#: AL1/single-products.php:79 AL2/single-products.php:83
+#: AL3/single-products.php:79
+msgid "of buyers enjoyed this product!"
+msgstr "de los compradores disfrutaron de este producto!"
+
+#: AL1/single-products.php:159 AL2/single-products.php:152
+#: AL3/single-products.php:159
+msgid "from AliExpress"
+msgstr "de AliExpress"
+
+#: AL1/single-products.php:184 AL2/single-products.php:181
+#: AL3/single-products.php:184
+msgid "45 days Money back"
+msgstr "45 días para devoluciones"
+
+#: AL1/single-products.php:185 AL2/single-products.php:181
+#: AL3/single-products.php:185
+msgid "Returns accepted if product not as described, buyer pays return shipping; or keep the product & agree refund with seller."
+msgstr "Se aceptan devoluciones si el producto no es como el descrito, el comprador paga los costes de envío de la devolución; o bien se queda con el producto y acuerda la devolución con el vendedor."
+
+#: AL1/single-products.php:192 AL1/single-products.php:435
+#: AL2/single-products.php:187 AL2/single-products.php:414
+#: AL3/single-products.php:192 AL3/single-products.php:435
+msgid "On-time Delivery"
+msgstr "Entrega a tiempo"
+
+#: AL1/functions.php:732
+msgid "Your email address will not be published."
+msgstr "Su mail no será publicado."
+
+#: AL1/functions.php:733
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes: %s"
+msgstr "Debe usar estos <abbr title=\"HyperText Markup Language\">HTML</abbr> tags y atributos: %s"
+
+#: AL1/functions.php:736
+msgid "Leave a Reply"
+msgstr "Dejar una respuesta"
+
+#: AL1/functions.php:737
+msgid "Leave a Reply to %s"
+msgstr "Dejar respuesta a %s"
+
+#: AL1/functions.php:738
+msgid "Cancel reply"
+msgstr "Cancelar respuesta"
+
+#: AL1/functions.php:739
+msgid "Post Comment"
+msgstr "Dejar comentario"
+
+#: AL1/functions.php:978 AL1/functions.php:979 AL1/templates/about-theme.php:35
+#: AL2/templates/about-theme.php:41 AL3/templates/about-theme.php:41
+msgid "About"
+msgstr "Sobre"
+
+#: AL1/functions.php:1067
+msgid "Allowed Files"
+msgstr "Archivos permitidos"
+
+#: AL1/home.php:22 AL1/home.php:43 AL1/home.php:64
+#: AL1/templates/text-line.php:11 AL2/home.php:22 AL2/home.php:43
+#: AL2/home.php:64 AL3/home.php:18 AL3/home.php:40 AL3/home.php:62
+#: AL3/templates/text-line.php:12
+msgid "Go to Catalogue"
+msgstr "Ir al catálogo"
+
+#: AL1/image.php:1
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: AL1/functions.php:132 AL1/single-products.php:277
+#: AL2/single-products.php:254 AL3/single-products.php:277
+msgid "Ratings"
+msgstr "Puntuaciones"
+
+#: AL1/functions.php:136 AL1/single-products.php:122
+#: AL1/single-products.php:137 AL1/single-products.php:145
+#: AL1/single-products.php:461 AL1/single-products.php:474
+#: AL1/single-products.php:480 AL2/single-products.php:121
+#: AL2/single-products.php:133 AL2/single-products.php:428
+#: AL2/single-products.php:441 AL2/single-products.php:447
+#: AL3/single-products.php:122 AL3/single-products.php:137
+#: AL3/single-products.php:145 AL3/single-products.php:461
+#: AL3/single-products.php:474 AL3/single-products.php:480
+msgid "Price"
+msgstr "Precio"
+
+#: AL1/functions.php:270 AL2/functions.php:43
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: AL1/functions.php:372 AL1/config/init.php:107 AL2/config/init.php:108
+msgid "Home"
+msgstr "Inicio"
+
+#: AL1/functions.php:373
+msgid "Archive article \"%s\""
+msgstr "Archivos artículos \"%s\""
+
+#: AL1/functions.php:374
+msgid "Search Results for: %s"
+msgstr "Buscar Resultados por: %s"
+
+#: AL1/functions.php:375 AL1/tag.php:1 AL2/tag.php:1
+msgid "Tag Archives: %s"
+msgstr "Etiquetas Archivos: %s"
+
+#: AL1/functions.php:377
+msgid "Not Found"
+msgstr "No encontrado"
+
+#: AL1/functions.php:576
+msgid "Page"
+msgstr "Página"
+
+#: AL1/functions.php:610
+msgid "More about"
+msgstr "Más sobre"
+
+#: AL1/functions.php:656 AL1/functions.php:709 AL1/single-products.php:355
+#: AL2/single-products.php:335 AL3/single-products.php:355
+msgid "Name"
+msgstr "Nombre"
+
+#: AL1/functions.php:658 AL1/functions.php:711
+msgid "Email"
+msgstr "Email"
+
+#: AL1/functions.php:660 AL1/functions.php:713
+msgid "Website"
+msgstr "Website"
+
+#: AL1/functions.php:676 AL1/functions.php:729
+msgid "Comment"
+msgstr "Comentario"
+
+#: AL1/functions.php:717
+msgid "Required fields are marked %s"
+msgstr "Los campos requeridos están marcados %s"
+
+#: AL1/functions.php:730
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Debe <a href=\"%s\">iniciar sesión</a> para dejar comentarios."
+
+#: AL1/functions.php:731
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Iniciar sesión como <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Salir de esta cuenta\">Cerrar sesión?</a>"
+
+#: AL1/comments.php:11
+msgid "Leave a reply"
+msgstr "Dejar comentarios"
+
+#: AL1/comments.php:11
+msgid "1 Reply"
+msgstr "1 Respuesta"
+
+#: AL1/comments.php:11
+msgid "% Replies"
+msgstr "% Respuestas"
+
+#: AL1/comments.php:18
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un tema sobre &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s temas sobre &ldquo;%2$s&rdquo;"
+
+#: AL1/comments.php:24
+msgid "Comment navigation"
+msgstr "Comentario navegación"
+
+#: AL1/comments.php:26
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios antiguos"
+
+#: AL1/comments.php:27
+msgid "Newer Comments &rarr;"
+msgstr "Nuevos comentarios &rarr;"
+
+#: AL1/comments.php:29
+msgid "Comments are closed."
+msgstr "Comentarios cerrados."
+
+#: AL1/footer.php:7 AL3/footer.php:7
+msgid "Our Preferred Partners:"
+msgstr "Nuestros colaboradores de confianza:"
+
+#: AL1/footer.php:41 AL2/footer.php:28 AL3/footer.php:37
+msgid "Copyright"
+msgstr "Copyright"
+
+#: AL1/footer.php:41 AL2/footer.php:28 AL3/footer.php:37
+msgid "Powered By"
+msgstr "Diseñado Por"
+
+#: AL1/functions.php:124 AL1/home.php:87 AL3/home.php:77
+msgid "Best sellers"
+msgstr "Lo más vendido"
+
+#: AL1/functions.php:128 AL1/home.php:84 AL2/templates/product-latest.php:1
+#: AL3/home.php:76
+msgid "Latest"
+msgstr "Novedades"
+
+#: AL1/404.php:1
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Parece que no se encontró nada en esta búsqueda. Podría intentarlo de nuevo?"
+
+#: AL1/404.php:1
+msgid "Search"
+msgstr "Buscar"
+
+#: AL1/archive.php:1 AL2/archive.php:3
+msgid "Daily Archives: %s"
+msgstr "Arvhicos diarios: %s"
+
+#: AL1/archive.php:1 AL2/archive.php:3
+msgid "Monthly Archives: %s"
+msgstr "Archivos mensuales: %s"
+
+#: AL1/archive.php:1 AL2/archive.php:3
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: AL1/archive.php:1 AL2/archive.php:3
+msgid "Yearly Archives: %s"
+msgstr "Archivos anuales: %s"
+
+#: AL1/archive.php:1 AL2/archive.php:3
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: AL1/archive.php:1 AL2/archive.php:3
+msgid "Archives"
+msgstr "Archivos"
+
+#: AL1/author.php:1 AL1/functions.php:376 AL2/author.php:1
+msgid "All posts by %s"
+msgstr "Todas las entradas por %s"
